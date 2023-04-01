@@ -5,6 +5,7 @@
       "password": "$2a$10$nau8KG9Eshux51lcE4LzQeZHXLVovJ7W1jNEg437Lr5LwupA8DHKG",
       "nickName": "鴨子",
       "confirmPassword": "duck",
+      "lotteryTicket": 0,
       "id": 2
     },
     {
@@ -12,6 +13,7 @@
       "password": "$2a$10$Z71SE5MibvECZUZg6J86feWO7Ze8OPAbJGWWVggWRRsbOujNOeFzy",
       "nickName": "唯愛可瑜小姐",
       "confirmPassword": "keyu",
+      "lotteryTicket": 21,
       "id": 3
     },
     {
@@ -20,6 +22,7 @@
       "nickName": "餅乾",
       "confirmPassword": "cookiesss",
       "admin": true,
+      "lotteryTicket": 178,
       "id": 4
     },
     {
@@ -27,6 +30,7 @@
       "password": "$2a$10$pYCf5Eb4zE9lJQHyl2HIF.8rFlztijkj3VRszjKEhOON9CtO7K2z6",
       "nickName": "蛋糕",
       "confirmPassword": "cake",
+      "lotteryTicket": 20,
       "id": 5
     },
     {
@@ -34,6 +38,7 @@
       "password": "$2a$10$ek47feLqKV3DAoO0Ru8iIeNyYQ4UmLsCcc1kCKgBMEVcSaZ3EM3O6",
       "nickName": "哈囉",
       "confirmPassword": "hello",
+      "lotteryTicket": 20,
       "id": 6
     },
     {
@@ -41,6 +46,7 @@
       "password": "$2a$10$5lbFo8/sGRDTbiR8lzHGguvM47hL4.a2Lts9kdrdqelhWolyCmSpe",
       "nickName": "bb",
       "confirmPassword": "bbbb",
+      "lotteryTicket": 21,
       "id": 7
     },
     {
@@ -48,6 +54,7 @@
       "password": "$2a$10$j1RDshkhdLpTD0rd86WFwuh2lyfKTITdVFN83Vrb12JpnHaJabcJ2",
       "nickName": "為什麼",
       "confirmPassword": "whywhy",
+      "lotteryTicket": 16,
       "id": 8
     },
     {
@@ -55,6 +62,7 @@
       "password": "$2a$10$CISM7yiSlI8gNaUlGwuUaem/s121idt53vWvl8L3azlOloy6CZKYi",
       "nickName": "清",
       "confirmPassword": "ching",
+      "lotteryTicket": 1,
       "id": 9
     },
     {
@@ -62,7 +70,24 @@
       "password": "$2a$10$Pvbiqe8thkpRBXNPeq0S4eOpBRCuyRJmU0Kgtj1Hm7jARvXP56j4O",
       "nickName": "喜歡甜甜的可瑜妹",
       "confirmPassword": "cuteKeyu",
+      "lotteryTicket": 1,
       "id": 10
+    },
+    {
+      "email": "happy@gmail.com",
+      "password": "$2a$10$Hy9RefnnEa2CnWiLAECxP.AQHeWGDhxTccrPEHDxHlRxwPPgzetM2",
+      "nickName": "嗨皮",
+      "confirmPassword": "happy",
+      "lotteryTicket": 0,
+      "id": 11
+    },
+    {
+      "email": "fafa@gmail.com",
+      "password": "$2a$10$Ag0eX6A9d88d8OTwBnbHQ.wtXXD15VxTVqgkG3mOvLUwak.bn3Fji",
+      "nickName": "大發哥",
+      "confirmPassword": "fafa",
+      "lotteryTicket": 0,
+      "id": 12
     }
   ],
   "recipes": [
@@ -3159,188 +3184,48 @@
       "id": 40
     }
   ],
-  "articles": [
-    {
-      "id": 1,
-      "title": "好可愛的狗狗~",
-      "description": "超可愛的~",
-      "imgUrl": "https://www.arfarf.tw/wp-content/uploads/10%E4%BB%B6%E4%BA%8B-1024x677.jpg",
-      "tags": [
-        "狗狗",
-        "寵物",
-        "黃金獵犬",
-        "超可愛"
-      ],
-      "userId": 4,
-      "isPublic": true,
-      "createAt": 1677110400000
-    },
-    {
-      "id": 2,
-      "title": "看起來超好吃的抹茶乳酪蛋糕!!!!",
-      "description": "有人吃過這麼好吃的東西嗎",
-      "imgUrl": "https://shoplineimg.com/59e80dc25521157e6000317c/626a4d17d578aa0012bd975d/800x.webp?source_format=png",
-      "tags": [
-        "蛋糕",
-        "抹茶",
-        "乳酪",
-        "米樂客"
-      ],
-      "userId": 2,
-      "isPublic": true,
-      "createAt": 1678233600000
-    },
-    {
-      "tags": [
-        "亞尼克",
-        "母親節",
-        "蛋糕",
-        "粉愛粉愛你"
-      ],
-      "title": "有大大吃過亞尼克的\"粉愛粉愛妳\"蛋糕嗎?",
-      "description": "有大大吃過亞尼克的\"粉愛粉愛妳\"蛋糕嗎? 價格好貴啊，外觀滿漂亮的。",
-      "imgUrl": "https://photo.yannick.com.tw/photo/0201085/%E8%8D%89%E8%8E%93%E9%9B%99%E8%B5%B7%E5%8F%B8.jpg",
-      "userId": 6,
-      "id": 4,
-      "createAt": 1677110400000,
-      "isPublic": true
-    },
-    {
-      "tags": [],
-      "description": "sdsd",
-      "title": "sdsds",
-      "imgUrl": "sdsd",
-      "isPublic": true,
-      "createAt": 1677110400000,
-      "id": 5,
-      "userId": 6
-    }
-  ],
-  "comments": [
-    {
-      "id": 2,
-      "message": "感覺超好吃",
-      "articleId": 2,
-      "createAt": "",
-      "userId": 5
-    },
-    {
-      "id": 3,
-      "message": "我吃過覺得很好吃超推薦!!!",
-      "articleId": 2,
-      "createAt": "",
-      "userId": 6
-    },
-    {
-      "id": 4,
-      "message": "超級愛狗狗",
-      "articleId": 1,
-      "createAt": "",
-      "userId": 7
-    }
-  ],
   "productBookmarks": [
     {
-      "userId": 5,
-      "id": 2,
-      "productId": 6
-    },
-    {
-      "userId": "4",
-      "productId": 4,
-      "id": 7
-    },
-    {
-      "userId": "4",
-      "productId": 11,
-      "id": 9
-    },
-    {
-      "userId": "9",
-      "productId": 4,
-      "id": 11
-    },
-    {
-      "userId": "4",
+      "userId": "11",
       "productId": 2,
-      "id": 14
+      "id": 1
     },
     {
-      "userId": "4",
-      "productId": 38,
-      "id": 16
-    },
-    {
-      "userId": "9",
+      "userId": "11",
       "productId": 1,
-      "id": 17
+      "id": 2
     },
     {
-      "userId": "9",
-      "productId": 3,
-      "id": 18
+      "userId": "11",
+      "productId": 4,
+      "id": 3
     },
     {
-      "userId": "2",
-      "productId": 10,
-      "id": 20
-    },
-    {
-      "userId": "4",
-      "productId": 5,
-      "id": 21
-    },
-    {
-      "userId": "4",
-      "productId": 10,
-      "id": 22
-    },
-    {
-      "userId": "2",
+      "userId": "11",
       "productId": 8,
-      "id": 24
+      "id": 4
     },
     {
-      "userId": "2",
-      "productId": 1,
-      "id": 29
-    },
-    {
-      "userId": "4",
-      "productId": 1,
-      "id": 30
+      "userId": "11",
+      "productId": 7,
+      "id": 5
     }
   ],
   "recipeBookmarks": [
     {
-      "userId": 6,
-      "id": 7,
-      "recipeId": 4
-    },
-    {
-      "userId": "9",
+      "userId": "11",
       "recipeId": 1,
-      "id": 14
+      "id": 1
     },
     {
-      "userId": "4",
-      "recipeId": 4,
-      "id": 15
-    },
-    {
-      "userId": "4",
-      "recipeId": 1,
-      "id": 17
-    },
-    {
-      "userId": "4",
+      "userId": "11",
       "recipeId": 3,
-      "id": 18
+      "id": 2
     },
     {
-      "userId": "2",
-      "recipeId": 1,
-      "id": 25
+      "userId": "11",
+      "recipeId": 6,
+      "id": 3
     }
   ],
   "productRates": [
@@ -3784,916 +3669,22 @@
       "id": 1,
       "items": [],
       "coupon": {
-        "id": 1,
-        "title": "母親節優惠",
-        "code": "MOM520",
-        "discount": 10,
-        "description": "響應母親節活動全站商品打9折~",
-        "startDate": 1679616000000,
-        "dueDate": 1680220800000,
-        "is_enabled": 1,
-        "img": "https://1.bp.blogspot.com/-FwUgQn5l8FE/YH0_C31iNLI/AAAAAAAAAxM/bdtrrDIUcr4ODy4bv9X-tP-afgFFDcWrwCLcBGAsYHQ/s0/blackboard-with-sign-happy-mother-s-day-pink-table-with-beautiful-tulip-flowers.jpg"
+        "title": "滿5000打8折",
+        "discount": 20,
+        "code": "20OFF",
+        "is_enabled": "1",
+        "img": "https://photoos.mac89.com/2019/07/29/EPS-190729_31/4wrohV3Cj4_small.jpg",
+        "description": "超級好康的優惠，快快搶購購滿5000元",
+        "startDate": 1680048000000,
+        "dueDate": 1680739200000,
+        "id": 2
       },
       "deliveryCharge": 60,
       "total": 0,
       "finalTotal": 60
-    },
-    {
-      "id": 1679580379926,
-      "items": [
-        {
-          "product": {
-            "title": "精製細砂糖",
-            "num": 500,
-            "unit": "g",
-            "price": 45,
-            "description": "料理 調味好幫手",
-            "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
-            "id": 4,
-            "relevantRecipes": [
-              "提拉米蘇蛋糕",
-              "抹茶巧克力馬卡龍",
-              "日式草莓蛋糕",
-              "巧克力閃電泡芙",
-              "鳳梨酥",
-              "比司吉",
-              "舒芙蕾",
-              "巧克力布朗尼",
-              "關東風櫻餅",
-              " 紅絲絨杯子蛋糕"
-            ],
-            "originalPrice": 45,
-            "isCheaper": false,
-            "imgsUrl": [
-              "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
-              "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
-              "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
-            ],
-            "category": "單一產品"
-          },
-          "qty": 4,
-          "total": 180
-        }
-      ],
-      "coupon": {},
-      "deliveryCharge": 60,
-      "total": 180,
-      "finalTotal": 240,
-      "userId": "4"
     }
   ],
   "orders": [
-    {
-      "userId": "4",
-      "creatAt": 1679400916249,
-      "cart": {
-        "id": 1679400885431,
-        "items": [
-          {
-            "product": {
-              "title": "蘭姆酒",
-              "num": 175,
-              "unit": "ml",
-              "price": 800,
-              "description": "南投酒廠為開發具有台灣在地風土特色產品，特別以在地南投紅甘蔗的故鄉-埔里地區紅甘蔗，做為原料以釀製蘭姆酒。由資深師傅們清洗甘蔗、碾壓榨汁、自然發酵，並以減壓式壺型蒸餾器採二次蒸餾工法，以擷取酒心獲取甘蔗白酒的最佳香氣，最後裝入全新白橡木桶內，在酒窖中沉睡多年，醞釀出帶著冬季夕陽的金黃色澤、草本清新的香氣馥郁而饒富多元的層次變化、口感甜潤豐富的「台灣紅甘蔗單一蘭姆酒」。",
-              "imgUrl": "https://wildjac.co.uk/wp-content/uploads/2023/01/Honey-Spiced-Rum-scaled.jpg",
-              "id": 7,
-              "relevantRecipes": [
-                "提拉米蘇蛋糕"
-              ],
-              "originalPrice": 1200,
-              "isCheaper": true,
-              "imgsUrl": [
-                "https://www.tasteofhome.com/wp-content/uploads/2019/06/dark-stormy-rum-cocktail-lime-ginger-shutterstock_385915783.jpg?fit=700,700"
-              ],
-              "category": "單一產品"
-            },
-            "qty": 10,
-            "total": 8000
-          }
-        ],
-        "coupon": {
-          "title": "滿5000打8折",
-          "discount": 20,
-          "code": "20OFF",
-          "is_enabled": "1",
-          "img": "https://photoos.mac89.com/2019/07/29/EPS-190729_31/4wrohV3Cj4_small.jpg",
-          "description": "超級好康的優惠，快快搶購購滿5000元",
-          "startDate": 1680048000000,
-          "dueDate": 1680739200000,
-          "id": 2
-        },
-        "deliveryCharge": 60,
-        "total": 8000,
-        "finalTotal": 6460,
-        "userId": "4"
-      },
-      "paymentStatus": true,
-      "payDate": "",
-      "deliveryStatus": "訂單完成",
-      "email": "cookiesss@gmail.com",
-      "name": "餅乾之王",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "999999999999999",
-      "id": 1
-    },
-    {
-      "userId": "4",
-      "creatAt": 1679401028010,
-      "cart": {
-        "id": 1679401013600,
-        "items": [
-          {
-            "product": {
-              "title": "義式咖啡包",
-              "num": 50,
-              "unit": "ml",
-              "price": 40,
-              "description": "你也是不能沒有咖啡一族嗎？忙碌的生活沒時間慢磨慢沖，『旅珈啡-義式咖啡包』隨身包裝隨身攜帶，任何時刻享受美味咖啡。獨立包裝保有新鮮。撕開包裝倒入義式咖啡液，立即享用，不需操作設備與器具，更不需清潔保養設備，只需輕輕鬆鬆享用咖啡。",
-              "imgUrl": "https://goodmockups.com/wp-content/uploads/2019/08/Free-Kraft-Paper-Coffee-Bag-Mockup-PSD-Set.jpg",
-              "id": 3,
-              "relevantRecipes": [
-                "提拉米蘇蛋糕"
-              ],
-              "isCheaper": false,
-              "originalPrice": 40,
-              "imgsUrl": [
-                "https://goodmockups.com/wp-content/uploads/2019/08/Free-Kraft-Paper-Coffee-Bag-Mockup-PSD-Set-3.jpg",
-                "https://coffeeaffection.com/wp-content/uploads/2021/03/Coffee-and-tea-bags_Shutterstock_Jouke-van-Keulen.jpg",
-                "https://1.bp.blogspot.com/-ruisE3cfKzE/X4_3IWR5WrI/AAAAAAAAI4E/vW8ZyerwhfQyhumUj88LUjZoUXBsv7oHwCLcBGAsYHQ/s263/Coffee%2BTea%2BBags.jpg"
-              ],
-              "category": "單一產品"
-            },
-            "qty": 7,
-            "total": 280
-          }
-        ],
-        "coupon": {},
-        "deliveryCharge": 60,
-        "total": 280,
-        "finalTotal": 340,
-        "userId": "4"
-      },
-      "paymentStatus": true,
-      "payDate": "",
-      "deliveryStatus": "訂單完成",
-      "email": "cookiesss@gmail.com",
-      "name": "餅乾之王",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "QQQQQQQQQQQQQQ",
-      "id": 2
-    },
-    {
-      "userId": "4",
-      "creatAt": 1679401119457,
-      "cart": {
-        "id": 1679401059320,
-        "items": [
-          {
-            "product": {
-              "relevantRecipes": [
-                "抹茶巧克力馬卡龍",
-                "巧克力閃電泡芙",
-                "巧克力布朗尼"
-              ],
-              "title": "黑巧克力",
-              "num": 200,
-              "unit": "g",
-              "price": 150,
-              "description": "頂級比利時可可原料 MIT台灣製造，歐式浪漫、質感外盒。\n\n最純粹的黑巧克力，每一口都是高品質可可的綿密的多層次口感。\n\n半年售出十萬片，超級熱銷品，懂吃的老饕就懂！",
-              "imgUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/12/24/99/14876192.jpg&x=0&y=0&sw=800&sh=452&s=Y&sl=W&fw=1280&exp=3600",
-              "id": 11,
-              "originalPrice": 150,
-              "isCheaper": false,
-              "imgsUrl": [],
-              "category": "單一產品"
-            },
-            "qty": 20,
-            "total": 3000
-          },
-          {
-            "product": {
-              "relevantRecipes": [
-                "抹茶巧克力馬卡龍",
-                "日式草莓蛋糕",
-                "巧克力閃電泡芙"
-              ],
-              "price": 90,
-              "num": 200,
-              "unit": "ml",
-              "title": "動物性鮮奶油",
-              "description": "總統牌鮮奶油產自法國布列塔尼及諾曼地等地區，純淨肥沃的天然畜牧環境孕育出香醇可口的生乳品質！\n 豐富的鈣質及維他命來源：每100公克的鮮奶油，提供80毫克至90毫克的鈣質，較牛奶含有更高的脂溶性維他命A、D、E、K！\n用於西式料理、糕點烘焙，濃純的芳香帶出馥郁的口感！打發效果佳，綿密細緻的質地，更是慕斯奶醬甜點類的最大優勢！",
-              "imgUrl": "https://ufileweb.hiwinner.tw/HiperShop/rwd1163/Store/prodPic/prod_Pics2PDTD0020%20(2).png",
-              "id": 12,
-              "originalPrice": 90,
-              "isCheaper": false,
-              "imgsUrl": [],
-              "category": "單一產品"
-            },
-            "qty": 20,
-            "total": 1800
-          }
-        ],
-        "coupon": {
-          "id": 1,
-          "title": "母親節優惠",
-          "code": "MOM520",
-          "discount": 10,
-          "description": "響應母親節活動全站商品打9折~",
-          "startDate": 1679616000000,
-          "dueDate": 1680220800000,
-          "is_enabled": 1,
-          "img": "https://1.bp.blogspot.com/-FwUgQn5l8FE/YH0_C31iNLI/AAAAAAAAAxM/bdtrrDIUcr4ODy4bv9X-tP-afgFFDcWrwCLcBGAsYHQ/s0/blackboard-with-sign-happy-mother-s-day-pink-table-with-beautiful-tulip-flowers.jpg"
-        },
-        "deliveryCharge": 60,
-        "total": 4800,
-        "finalTotal": 4380,
-        "userId": "4"
-      },
-      "paymentStatus": true,
-      "payDate": "",
-      "deliveryStatus": "訂單完成",
-      "email": "cookiesss@gmail.com",
-      "name": "餅乾之王",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "2222222222222",
-      "id": 3
-    },
-    {
-      "userId": "4",
-      "creatAt": 1679401860257,
-      "cart": {
-        "id": 1679401795135,
-        "items": [
-          {
-            "product": {
-              "title": "精製細砂糖",
-              "num": 500,
-              "unit": "g",
-              "price": 45,
-              "description": "料理 調味好幫手",
-              "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
-              "id": 4,
-              "relevantRecipes": [
-                "提拉米蘇蛋糕",
-                "抹茶巧克力馬卡龍",
-                "日式草莓蛋糕",
-                "巧克力閃電泡芙",
-                "鳳梨酥",
-                "比司吉",
-                "舒芙蕾",
-                "巧克力布朗尼",
-                "關東風櫻餅",
-                " 紅絲絨杯子蛋糕"
-              ],
-              "originalPrice": 45,
-              "isCheaper": false,
-              "imgsUrl": [
-                "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
-                "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
-                "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
-              ],
-              "category": "單一產品"
-            },
-            "qty": 2,
-            "total": 90
-          },
-          {
-            "product": {
-              "title": "馬斯卡邦起司",
-              "num": 500,
-              "unit": "g",
-              "price": 199,
-              "description": "Mascarpone是一種未經熟成的義式傳統軟質新鮮乳酪，帶有微甜的口感與豐富的奶香，質地如天鵝絨般的滑順，適用在各式料理烹調，它的用途相當豐富，可代替鮮奶油，也可作為醬汁、沾料或是抹醬。",
-              "imgUrl": "https://img.my-best.tw/content_section/afterwards_tips/8cd86b9ab34faf746a9b51c6db2c4450.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=8764e0bab952e10bb16192d430fae149",
-              "id": 1,
-              "relevantRecipes": [
-                "提拉米蘇蛋糕"
-              ],
-              "isCheaper": true,
-              "originalPrice": 300,
-              "imgsUrl": [
-                "https://www.verywellfit.com/thmb/fjnt_aoNDUHR2yGs93ygFMym0OM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-154953089-8c4680433ae1462aa9e66764de832c72.jpg",
-                "https://www.daringgourmet.com/wp-content/uploads/2020/02/Mascarpone-4-square-scaled.jpg",
-                "https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/07/7/picHyysdd.jpg",
-                "https://www.gourmetspartner.com/rwd1163/Store/bImages/b_PDTD8600.jpg",
-                "https://img.my-best.tw/content_section/beforehand_tips/2022d65df7fddb13f5ec706c7615684d.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=177509c8582d3dd982e0cfda74f8e20a",
-                "https://img.my-best.tw/content_section/choice_component/contents/68ac8cfbe8a0ce797138046c49eeef67.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=f557a22c0eb6f7410ce2153161969d5d"
-              ],
-              "category": "單一產品"
-            },
-            "qty": 5,
-            "total": 995
-          }
-        ],
-        "coupon": {
-          "id": 1,
-          "title": "母親節優惠",
-          "code": "MOM520",
-          "discount": 10,
-          "description": "響應母親節活動全站商品打9折~",
-          "startDate": 1679616000000,
-          "dueDate": 1680220800000,
-          "is_enabled": 1,
-          "img": "https://1.bp.blogspot.com/-FwUgQn5l8FE/YH0_C31iNLI/AAAAAAAAAxM/bdtrrDIUcr4ODy4bv9X-tP-afgFFDcWrwCLcBGAsYHQ/s0/blackboard-with-sign-happy-mother-s-day-pink-table-with-beautiful-tulip-flowers.jpg"
-        },
-        "deliveryCharge": 60,
-        "total": 1085,
-        "finalTotal": 1036,
-        "userId": "4"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "待取貨",
-      "email": "cookiesss@gmail.com",
-      "name": "餅乾之王",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "3333",
-      "id": 4
-    },
-    {
-      "userId": "4",
-      "creatAt": 1679402137785,
-      "cart": {
-        "id": 1679402103612,
-        "items": [
-          {
-            "product": {
-              "relevantRecipes": [
-                "日式草莓蛋糕"
-              ],
-              "isCheaper": true,
-              "imgsUrl": [],
-              "title": "日式草莓蛋糕食材組合包",
-              "category": "組合包",
-              "imgUrl": "https://www.sweet-dumpling.com/media/content/782fdf00311996eeb81fc2f164e66bcb/japanese-strawberry-shortcake--cover.jpg",
-              "originalPrice": 855,
-              "price": 700,
-              "num": 9,
-              "unit": "吋",
-              "id": 39,
-              "description": "內含所有日式草莓蛋糕製作材料：\n1. 精製細砂糖 ： 500g / 45 元\n2. 雞蛋 ： 10顆 / 130 元\n3. 糖粉 ： 250g / 35 元\n4. 動物性鮮奶油 ： 200ml / 90 元\n5. 低筋麵粉 ： 500ml / 40 元\n6. 無鹽奶油 ： 450g / 140 元\n7. 大湖草莓 ： 1斤 / 375 元"
-            },
-            "qty": 15,
-            "total": 10500
-          }
-        ],
-        "coupon": {
-          "title": "滿5000打8折",
-          "discount": 20,
-          "code": "20OFF",
-          "is_enabled": "1",
-          "img": "https://photoos.mac89.com/2019/07/29/EPS-190729_31/4wrohV3Cj4_small.jpg",
-          "description": "超級好康的優惠，快快搶購購滿5000元",
-          "startDate": 1680048000000,
-          "dueDate": 1680739200000,
-          "id": 2
-        },
-        "deliveryCharge": 60,
-        "total": 10500,
-        "finalTotal": 8460,
-        "userId": "4"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "待取貨",
-      "email": "cookiesss@gmail.com",
-      "name": "餅乾之王",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "uuuuuuu",
-      "id": 5
-    },
-    {
-      "userId": "4",
-      "creatAt": 1679402245072,
-      "cart": {
-        "id": 1679402212918,
-        "items": [
-          {
-            "product": {
-              "relevantRecipes": [
-                "抹茶巧克力馬卡龍",
-                "巧克力閃電泡芙",
-                "巧克力布朗尼"
-              ],
-              "title": "黑巧克力",
-              "num": 200,
-              "unit": "g",
-              "price": 150,
-              "description": "頂級比利時可可原料 MIT台灣製造，歐式浪漫、質感外盒。\n\n最純粹的黑巧克力，每一口都是高品質可可的綿密的多層次口感。\n\n半年售出十萬片，超級熱銷品，懂吃的老饕就懂！",
-              "imgUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/12/24/99/14876192.jpg&x=0&y=0&sw=800&sh=452&s=Y&sl=W&fw=1280&exp=3600",
-              "id": 11,
-              "originalPrice": 150,
-              "isCheaper": false,
-              "imgsUrl": [],
-              "category": "單一產品"
-            },
-            "qty": 6,
-            "total": 900
-          }
-        ],
-        "coupon": {
-          "id": 1,
-          "title": "母親節優惠",
-          "code": "MOM520",
-          "discount": 10,
-          "description": "響應母親節活動全站商品打9折~",
-          "startDate": 1679616000000,
-          "dueDate": 1680220800000,
-          "is_enabled": 1,
-          "img": "https://1.bp.blogspot.com/-FwUgQn5l8FE/YH0_C31iNLI/AAAAAAAAAxM/bdtrrDIUcr4ODy4bv9X-tP-afgFFDcWrwCLcBGAsYHQ/s0/blackboard-with-sign-happy-mother-s-day-pink-table-with-beautiful-tulip-flowers.jpg"
-        },
-        "deliveryCharge": 60,
-        "total": 900,
-        "finalTotal": 870,
-        "userId": "4"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "運送中",
-      "email": "cookiesss@gmail.com",
-      "name": "餅乾之王",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "111111111",
-      "id": 6
-    },
-    {
-      "userId": "4",
-      "creatAt": 1679402641944,
-      "cart": {
-        "id": 1679402598430,
-        "items": [
-          {
-            "product": {
-              "relevantRecipes": [
-                "提拉米蘇蛋糕"
-              ],
-              "isCheaper": true,
-              "imgsUrl": [],
-              "title": "提拉米蘇蛋糕食材組合包",
-              "imgUrl": "https://www.starbucks.com.tw/common/objects/images/cake/20221004113016110.jpg",
-              "num": 18,
-              "unit": "吋",
-              "originalPrice": 1663,
-              "price": 1500,
-              "description": "內含所有提拉米蘇蛋糕製作材料：\n1. 馬斯卡邦起司 ： 500g / 199 元\n2. 手指餅乾 ： 100g / 50 元\n3. 義式咖啡包 ： 50ml / 40 元\n4. 精製細砂糖 ： 500g / 45 元\n5. 雞蛋 ： 10顆 / 130 元\n6. 可可粉 ： 300g / 399 元\n7. 蘭姆酒 ： 175ml / 800 元\n8. 提拉米蘇蛋糕材料包 ： 18吋 / 1500 元",
-              "id": 37,
-              "category": "組合包"
-            },
-            "qty": 10,
-            "total": 15000
-          }
-        ],
-        "coupon": {
-          "title": "滿5000打8折",
-          "discount": 20,
-          "code": "20OFF",
-          "is_enabled": "1",
-          "img": "https://photoos.mac89.com/2019/07/29/EPS-190729_31/4wrohV3Cj4_small.jpg",
-          "description": "超級好康的優惠，快快搶購購滿5000元",
-          "startDate": 1680048000000,
-          "dueDate": 1680739200000,
-          "id": 2
-        },
-        "deliveryCharge": 60,
-        "total": 15000,
-        "finalTotal": 12060,
-        "userId": "4"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "運送中",
-      "email": "cookiesss@gmail.com",
-      "name": "餅乾之王",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "超愛吃提拉米蘇",
-      "id": 7
-    },
-    {
-      "userId": "4",
-      "creatAt": 1679402903295,
-      "cart": {
-        "id": 1679402877933,
-        "items": [
-          {
-            "product": {
-              "relevantRecipes": [
-                "抹茶巧克力馬卡龍"
-              ],
-              "isCheaper": true,
-              "imgsUrl": [],
-              "imgUrl": "https://tokyo-kitchen.icook.network/uploads/step/cover/1471790/07f575b56b4b4469.jpg",
-              "category": "組合包",
-              "title": "抹茶巧克力馬卡龍食材組合包",
-              "num": 12,
-              "unit": "個",
-              "originalPrice": 690,
-              "price": 500,
-              "id": 38,
-              "description": "內含所有抹茶巧克力馬卡龍製作材料：\n1. 精製細砂糖 ： 500g / 45 元\n2. 雞蛋 ： 10顆 / 130 元\n3. 杏仁粉 ： 200g / 100 元\n4. 糖粉 ： 250g / 35 元\n5. 抹茶粉 ： 200g / 140 元\n6. 黑巧克力 ： 200g / 150 元\n7. 動物性鮮奶油 ： 200ml / 90 元"
-            },
-            "qty": 5,
-            "total": 2500
-          }
-        ],
-        "coupon": {
-          "id": 1,
-          "title": "母親節優惠",
-          "code": "MOM520",
-          "discount": 10,
-          "description": "響應母親節活動全站商品打9折~",
-          "startDate": 1679616000000,
-          "dueDate": 1680220800000,
-          "is_enabled": 1,
-          "img": "https://1.bp.blogspot.com/-FwUgQn5l8FE/YH0_C31iNLI/AAAAAAAAAxM/bdtrrDIUcr4ODy4bv9X-tP-afgFFDcWrwCLcBGAsYHQ/s0/blackboard-with-sign-happy-mother-s-day-pink-table-with-beautiful-tulip-flowers.jpg"
-        },
-        "deliveryCharge": 60,
-        "total": 2500,
-        "finalTotal": 2310,
-        "userId": "4"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "運送中",
-      "email": "cookiesss@gmail.com",
-      "name": "餅乾之王",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "SSSSS",
-      "id": 9
-    },
-    {
-      "userId": "4",
-      "creatAt": 1679403261399,
-      "cart": {
-        "id": 1679403247589,
-        "items": [
-          {
-            "product": {
-              "title": "義式咖啡包",
-              "num": 50,
-              "unit": "ml",
-              "price": 40,
-              "description": "你也是不能沒有咖啡一族嗎？忙碌的生活沒時間慢磨慢沖，『旅珈啡-義式咖啡包』隨身包裝隨身攜帶，任何時刻享受美味咖啡。獨立包裝保有新鮮。撕開包裝倒入義式咖啡液，立即享用，不需操作設備與器具，更不需清潔保養設備，只需輕輕鬆鬆享用咖啡。",
-              "imgUrl": "https://goodmockups.com/wp-content/uploads/2019/08/Free-Kraft-Paper-Coffee-Bag-Mockup-PSD-Set.jpg",
-              "id": 3,
-              "relevantRecipes": [
-                "提拉米蘇蛋糕"
-              ],
-              "isCheaper": false,
-              "originalPrice": 40,
-              "imgsUrl": [
-                "https://goodmockups.com/wp-content/uploads/2019/08/Free-Kraft-Paper-Coffee-Bag-Mockup-PSD-Set-3.jpg",
-                "https://coffeeaffection.com/wp-content/uploads/2021/03/Coffee-and-tea-bags_Shutterstock_Jouke-van-Keulen.jpg",
-                "https://1.bp.blogspot.com/-ruisE3cfKzE/X4_3IWR5WrI/AAAAAAAAI4E/vW8ZyerwhfQyhumUj88LUjZoUXBsv7oHwCLcBGAsYHQ/s263/Coffee%2BTea%2BBags.jpg"
-              ],
-              "category": "單一產品"
-            },
-            "qty": 4,
-            "total": 160
-          },
-          {
-            "product": {
-              "relevantRecipes": [
-                "日式草莓蛋糕"
-              ],
-              "isCheaper": true,
-              "imgsUrl": [],
-              "title": "日式草莓蛋糕食材組合包",
-              "category": "組合包",
-              "imgUrl": "https://www.sweet-dumpling.com/media/content/782fdf00311996eeb81fc2f164e66bcb/japanese-strawberry-shortcake--cover.jpg",
-              "originalPrice": 855,
-              "price": 700,
-              "num": 9,
-              "unit": "吋",
-              "id": 39,
-              "description": "內含所有日式草莓蛋糕製作材料：\n1. 精製細砂糖 ： 500g / 45 元\n2. 雞蛋 ： 10顆 / 130 元\n3. 糖粉 ： 250g / 35 元\n4. 動物性鮮奶油 ： 200ml / 90 元\n5. 低筋麵粉 ： 500ml / 40 元\n6. 無鹽奶油 ： 450g / 140 元\n7. 大湖草莓 ： 1斤 / 375 元"
-            },
-            "qty": 5,
-            "total": 3500
-          }
-        ],
-        "coupon": {},
-        "deliveryCharge": 60,
-        "total": 3660,
-        "finalTotal": 3720,
-        "userId": "4"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "運送中",
-      "email": "cookiesss@gmail.com",
-      "name": "餅乾之王",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "aa",
-      "id": 10
-    },
-    {
-      "userId": "4",
-      "creatAt": 1679403366391,
-      "cart": {
-        "id": 1679403318685,
-        "items": [
-          {
-            "product": {
-              "title": "馬斯卡邦起司",
-              "num": 500,
-              "unit": "g",
-              "price": 199,
-              "description": "Mascarpone是一種未經熟成的義式傳統軟質新鮮乳酪，帶有微甜的口感與豐富的奶香，質地如天鵝絨般的滑順，適用在各式料理烹調，它的用途相當豐富，可代替鮮奶油，也可作為醬汁、沾料或是抹醬。",
-              "imgUrl": "https://img.my-best.tw/content_section/afterwards_tips/8cd86b9ab34faf746a9b51c6db2c4450.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=8764e0bab952e10bb16192d430fae149",
-              "id": 1,
-              "relevantRecipes": [
-                "提拉米蘇蛋糕"
-              ],
-              "isCheaper": true,
-              "originalPrice": 300,
-              "imgsUrl": [
-                "https://www.verywellfit.com/thmb/fjnt_aoNDUHR2yGs93ygFMym0OM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-154953089-8c4680433ae1462aa9e66764de832c72.jpg",
-                "https://www.daringgourmet.com/wp-content/uploads/2020/02/Mascarpone-4-square-scaled.jpg",
-                "https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/07/7/picHyysdd.jpg",
-                "https://www.gourmetspartner.com/rwd1163/Store/bImages/b_PDTD8600.jpg",
-                "https://img.my-best.tw/content_section/beforehand_tips/2022d65df7fddb13f5ec706c7615684d.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=177509c8582d3dd982e0cfda74f8e20a",
-                "https://img.my-best.tw/content_section/choice_component/contents/68ac8cfbe8a0ce797138046c49eeef67.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=f557a22c0eb6f7410ce2153161969d5d"
-              ],
-              "category": "單一產品"
-            },
-            "qty": 11,
-            "total": 2189
-          }
-        ],
-        "coupon": {},
-        "deliveryCharge": 60,
-        "total": 2189,
-        "finalTotal": 2249,
-        "userId": "4"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "待出貨",
-      "email": "cookiesss@gmail.com",
-      "name": "餅乾之王",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "dddddddd",
-      "id": 11
-    },
-    {
-      "userId": "4",
-      "creatAt": 1679403426983,
-      "cart": {
-        "id": 1679403391397,
-        "items": [
-          {
-            "product": {
-              "title": "手指餅乾",
-              "num": 100,
-              "unit": "g",
-              "price": 50,
-              "description": "製作提拉米蘇,慕斯類等各式甜點的最佳夥伴,作為甜點夾層或底層原料,強口感佳。",
-              "imgUrl": "http://n.sinaimg.cn/sinacn10110/235/w640h395/20191008/46a8-ifrwayw5888780.jpg",
-              "id": 2,
-              "relevantRecipes": [
-                "提拉米蘇蛋糕"
-              ],
-              "isCheaper": false,
-              "originalPrice": 50,
-              "imgsUrl": [
-                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySQND9CHp34LiAmCliRUeWvMlSknQ_VshPlKiL43FgfKv-PoJ7qPLRx82-qvKrvKGQio&usqp=CAU",
-                "http://n.sinaimg.cn/sinacn10110/235/w640h395/20191008/6f1b-ifrwayw5889319.jpg",
-                "http://n.sinaimg.cn/sinacn10110/237/w640h397/20191008/ea7f-ifrwayw5889159.jpg"
-              ],
-              "category": "單一產品"
-            },
-            "qty": 20,
-            "total": 1000
-          }
-        ],
-        "coupon": {},
-        "deliveryCharge": 60,
-        "total": 1000,
-        "finalTotal": 1060,
-        "userId": "4"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "待出貨",
-      "email": "cookiesss@gmail.com",
-      "name": "餅乾之王",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "好愛吃餅乾",
-      "id": 12
-    },
-    {
-      "userId": "2",
-      "creatAt": 1679403868998,
-      "cart": {
-        "id": 1679403844148,
-        "items": [
-          {
-            "product": {
-              "title": "蘭姆酒",
-              "num": 175,
-              "unit": "ml",
-              "price": 800,
-              "description": "南投酒廠為開發具有台灣在地風土特色產品，特別以在地南投紅甘蔗的故鄉-埔里地區紅甘蔗，做為原料以釀製蘭姆酒。由資深師傅們清洗甘蔗、碾壓榨汁、自然發酵，並以減壓式壺型蒸餾器採二次蒸餾工法，以擷取酒心獲取甘蔗白酒的最佳香氣，最後裝入全新白橡木桶內，在酒窖中沉睡多年，醞釀出帶著冬季夕陽的金黃色澤、草本清新的香氣馥郁而饒富多元的層次變化、口感甜潤豐富的「台灣紅甘蔗單一蘭姆酒」。",
-              "imgUrl": "https://wildjac.co.uk/wp-content/uploads/2023/01/Honey-Spiced-Rum-scaled.jpg",
-              "id": 7,
-              "relevantRecipes": [
-                "提拉米蘇蛋糕"
-              ],
-              "originalPrice": 1200,
-              "isCheaper": true,
-              "imgsUrl": [
-                "https://www.tasteofhome.com/wp-content/uploads/2019/06/dark-stormy-rum-cocktail-lime-ginger-shutterstock_385915783.jpg?fit=700,700"
-              ],
-              "category": "單一產品"
-            },
-            "qty": 10,
-            "total": 8000
-          }
-        ],
-        "coupon": {
-          "title": "滿5000打8折",
-          "discount": 20,
-          "code": "20OFF",
-          "is_enabled": "1",
-          "img": "https://photoos.mac89.com/2019/07/29/EPS-190729_31/4wrohV3Cj4_small.jpg",
-          "description": "超級好康的優惠，快快搶購購滿5000元",
-          "startDate": 1680048000000,
-          "dueDate": 1680739200000,
-          "id": 2
-        },
-        "deliveryCharge": 60,
-        "total": 8000,
-        "finalTotal": 6460,
-        "userId": "2"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "待出貨",
-      "email": "duck@gmail.com",
-      "name": "鴨鴨",
-      "phoneNum": "0958282749",
-      "address": "池塘",
-      "message": "冠軍是我的",
-      "id": 13
-    },
-    {
-      "userId": "4",
-      "creatAt": 1679410538375,
-      "cart": {
-        "id": 1679410527877,
-        "items": [
-          {
-            "product": {
-              "title": "義式咖啡包",
-              "num": 50,
-              "unit": "ml",
-              "price": 40,
-              "description": "你也是不能沒有咖啡一族嗎？忙碌的生活沒時間慢磨慢沖，『旅珈啡-義式咖啡包』隨身包裝隨身攜帶，任何時刻享受美味咖啡。獨立包裝保有新鮮。撕開包裝倒入義式咖啡液，立即享用，不需操作設備與器具，更不需清潔保養設備，只需輕輕鬆鬆享用咖啡。",
-              "imgUrl": "https://goodmockups.com/wp-content/uploads/2019/08/Free-Kraft-Paper-Coffee-Bag-Mockup-PSD-Set.jpg",
-              "id": 3,
-              "relevantRecipes": [
-                "提拉米蘇蛋糕"
-              ],
-              "isCheaper": false,
-              "originalPrice": 40,
-              "imgsUrl": [
-                "https://goodmockups.com/wp-content/uploads/2019/08/Free-Kraft-Paper-Coffee-Bag-Mockup-PSD-Set-3.jpg",
-                "https://coffeeaffection.com/wp-content/uploads/2021/03/Coffee-and-tea-bags_Shutterstock_Jouke-van-Keulen.jpg",
-                "https://1.bp.blogspot.com/-ruisE3cfKzE/X4_3IWR5WrI/AAAAAAAAI4E/vW8ZyerwhfQyhumUj88LUjZoUXBsv7oHwCLcBGAsYHQ/s263/Coffee%2BTea%2BBags.jpg"
-              ],
-              "category": "單一產品"
-            },
-            "qty": 4,
-            "total": 160
-          }
-        ],
-        "coupon": {},
-        "deliveryCharge": 60,
-        "total": 160,
-        "finalTotal": 220,
-        "userId": "4"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "待出貨",
-      "email": "cookiesss@gmail.com",
-      "name": "餅乾之王",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "sss",
-      "id": 15
-    },
-    {
-      "userId": "9",
-      "creatAt": 1679457446638,
-      "cart": {
-        "id": 1679457403157,
-        "items": [
-          {
-            "product": {
-              "relevantRecipes": [
-                " 紅絲絨杯子蛋糕"
-              ],
-              "title": "天然檸檬原汁",
-              "price": 199,
-              "num": "200",
-              "unit": "ml",
-              "imgUrl": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/CE17D32B-FB73-4B10-906D-FB397B545D08/Derivates/6BAA4718-A0A9-4CA5-8EE1-F16DFCC9A1D3.jpg",
-              "id": 36,
-              "originalPrice": 235,
-              "isCheaper": true,
-              "description": "新鮮水果，非濃縮還原，檸檬原汁100%！酸度適中香氣豐富，不額外添加糖、人工添加劑。每瓶以4顆檸檬壓榨成汁，主要選自南義大利和西班牙產的黃色西西里檸檬。",
-              "imgsUrl": [],
-              "category": "單一產品"
-            },
-            "qty": 10,
-            "total": 1990
-          }
-        ],
-        "coupon": {},
-        "deliveryCharge": 60,
-        "total": 1990,
-        "finalTotal": 2050,
-        "userId": "9"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "待出貨",
-      "email": "ching@gmail.com",
-      "name": "阿清",
-      "phoneNum": "0958282749",
-      "address": "城堡",
-      "message": "ttttttttttttttt",
-      "id": 16
-    },
-    {
-      "userId": "4",
-      "creatAt": 1679470798123,
-      "cart": {
-        "id": 1679457379596,
-        "items": [
-          {
-            "product": {
-              "title": "精製細砂糖",
-              "num": 500,
-              "unit": "g",
-              "price": 45,
-              "description": "料理 調味好幫手",
-              "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
-              "id": 4,
-              "relevantRecipes": [
-                "提拉米蘇蛋糕",
-                "抹茶巧克力馬卡龍",
-                "日式草莓蛋糕",
-                "巧克力閃電泡芙",
-                "鳳梨酥",
-                "比司吉",
-                "舒芙蕾",
-                "巧克力布朗尼",
-                "關東風櫻餅",
-                " 紅絲絨杯子蛋糕"
-              ],
-              "originalPrice": 45,
-              "isCheaper": false,
-              "imgsUrl": [
-                "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
-                "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
-                "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
-              ],
-              "category": "單一產品"
-            },
-            "qty": 1,
-            "total": 45
-          }
-        ],
-        "coupon": {},
-        "deliveryCharge": 60,
-        "total": 45,
-        "finalTotal": 105,
-        "userId": "4"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "待出貨",
-      "email": "cookiesss@gmail.com",
-      "name": "cookiesss",
-      "phoneNum": "0958282749",
-      "address": "餅乾星球",
-      "message": "aaa",
-      "id": 17
-    },
     {
       "creatAt": 1679657101300,
       "cart": {
@@ -5066,81 +4057,6 @@
       "id": 23
     },
     {
-      "userId": "2",
-      "creatAt": 1679750516764,
-      "cart": {
-        "id": 1679646804285,
-        "items": [
-          {
-            "product": {
-              "imgUrl": "https://static.wixstatic.com/media/e193cd_26a08b3c53ee461d8659c421c7a115d5~mv2.jpg/v1/fill/w_600,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%E6%9D%8F%E4%BB%81%E7%B2%89.jpg",
-              "title": "杏仁粉",
-              "num": 200,
-              "unit": "g",
-              "price": 100,
-              "description": "杏仁含豐富的優質蛋白\n\n特別適合發育中的兒童食用。\n\n杏仁營養價值高含豐富的\n\n單元不飽和脂肪酸，維他命E，維他命B17。",
-              "id": 8,
-              "relevantRecipes": [
-                "抹茶巧克力馬卡龍"
-              ],
-              "originalPrice": 100,
-              "isCheaper": false,
-              "category": "單一產品"
-            },
-            "qty": 2,
-            "total": 200
-          },
-          {
-            "product": {
-              "imgUrl": "https://www.ycbake.com.tw/upfd/upimage/PD-180212-018403.jpg",
-              "title": "糖粉",
-              "num": 250,
-              "unit": "g",
-              "price": 35,
-              "description": "台中70年老店，大華糖行分裝，安全無虞。台糖公司小港廠，精緻特砂，100%品質保證",
-              "relevantRecipes": [
-                "抹茶巧克力馬卡龍",
-                "日式草莓蛋糕",
-                "鳳梨酥",
-                " 紅絲絨杯子蛋糕"
-              ],
-              "id": 9,
-              "originalPrice": 35,
-              "isCheaper": false,
-              "imgsUrl": [],
-              "category": "單一產品"
-            },
-            "qty": 1,
-            "total": 35
-          }
-        ],
-        "coupon": {
-          "id": 1,
-          "title": "母親節優惠",
-          "code": "MOM520",
-          "discount": 10,
-          "description": "響應母親節活動全站商品打9折~",
-          "startDate": 1679616000000,
-          "dueDate": 1680220800000,
-          "is_enabled": 1,
-          "img": "https://1.bp.blogspot.com/-FwUgQn5l8FE/YH0_C31iNLI/AAAAAAAAAxM/bdtrrDIUcr4ODy4bv9X-tP-afgFFDcWrwCLcBGAsYHQ/s0/blackboard-with-sign-happy-mother-s-day-pink-table-with-beautiful-tulip-flowers.jpg"
-        },
-        "deliveryCharge": 60,
-        "total": 235,
-        "finalTotal": 271,
-        "userId": "2"
-      },
-      "paymentStatus": false,
-      "payDate": "",
-      "deliveryStatus": "待出貨",
-      "email": "duck@gmail.com",
-      "name": "鴨子",
-      "phoneNum": "0958282749",
-      "address": "池塘",
-      "message": "鴨鴨",
-      "id": 24
-    },
-    {
       "creatAt": 1679836478056,
       "cart": {
         "id": 1,
@@ -5315,6 +4231,1838 @@
       "address": "SSS",
       "message": "ss",
       "id": 26
+    },
+    {
+      "creatAt": 1680254606169,
+      "cart": {
+        "id": 1,
+        "items": [
+          {
+            "product": {
+              "title": "精製細砂糖",
+              "num": 500,
+              "unit": "g",
+              "price": 45,
+              "description": "料理 調味好幫手",
+              "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
+              "id": 4,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕",
+                "抹茶巧克力馬卡龍",
+                "日式草莓蛋糕",
+                "巧克力閃電泡芙",
+                "鳳梨酥",
+                "比司吉",
+                "舒芙蕾",
+                "巧克力布朗尼",
+                "關東風櫻餅",
+                " 紅絲絨杯子蛋糕"
+              ],
+              "originalPrice": 45,
+              "isCheaper": false,
+              "imgsUrl": [
+                "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
+                "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
+                "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 5,
+            "total": 225
+          },
+          {
+            "product": {
+              "title": "手指餅乾",
+              "num": 100,
+              "unit": "g",
+              "price": 50,
+              "description": "製作提拉米蘇,慕斯類等各式甜點的最佳夥伴,作為甜點夾層或底層原料,強口感佳。",
+              "imgUrl": "http://n.sinaimg.cn/sinacn10110/235/w640h395/20191008/46a8-ifrwayw5888780.jpg",
+              "id": 2,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕"
+              ],
+              "isCheaper": false,
+              "originalPrice": 50,
+              "imgsUrl": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySQND9CHp34LiAmCliRUeWvMlSknQ_VshPlKiL43FgfKv-PoJ7qPLRx82-qvKrvKGQio&usqp=CAU",
+                "http://n.sinaimg.cn/sinacn10110/235/w640h395/20191008/6f1b-ifrwayw5889319.jpg",
+                "http://n.sinaimg.cn/sinacn10110/237/w640h397/20191008/ea7f-ifrwayw5889159.jpg"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 1,
+            "total": 50
+          },
+          {
+            "product": {
+              "title": "馬斯卡邦起司",
+              "num": 500,
+              "unit": "g",
+              "price": 199,
+              "description": "Mascarpone是一種未經熟成的義式傳統軟質新鮮乳酪，帶有微甜的口感與豐富的奶香，質地如天鵝絨般的滑順，適用在各式料理烹調，它的用途相當豐富，可代替鮮奶油，也可作為醬汁、沾料或是抹醬。",
+              "imgUrl": "https://img.my-best.tw/content_section/afterwards_tips/8cd86b9ab34faf746a9b51c6db2c4450.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=8764e0bab952e10bb16192d430fae149",
+              "id": 1,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕"
+              ],
+              "isCheaper": true,
+              "originalPrice": 300,
+              "imgsUrl": [
+                "https://www.verywellfit.com/thmb/fjnt_aoNDUHR2yGs93ygFMym0OM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-154953089-8c4680433ae1462aa9e66764de832c72.jpg",
+                "https://www.daringgourmet.com/wp-content/uploads/2020/02/Mascarpone-4-square-scaled.jpg",
+                "https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/07/7/picHyysdd.jpg",
+                "https://www.gourmetspartner.com/rwd1163/Store/bImages/b_PDTD8600.jpg",
+                "https://img.my-best.tw/content_section/beforehand_tips/2022d65df7fddb13f5ec706c7615684d.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=177509c8582d3dd982e0cfda74f8e20a",
+                "https://img.my-best.tw/content_section/choice_component/contents/68ac8cfbe8a0ce797138046c49eeef67.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=f557a22c0eb6f7410ce2153161969d5d"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 1,
+            "total": 199
+          }
+        ],
+        "coupon": {
+          "id": 1,
+          "title": "母親節優惠",
+          "code": "MOM520",
+          "discount": 10,
+          "description": "響應母親節活動全站商品打9折~",
+          "startDate": 1679616000000,
+          "dueDate": 1680220800000,
+          "is_enabled": 1,
+          "img": "https://1.bp.blogspot.com/-FwUgQn5l8FE/YH0_C31iNLI/AAAAAAAAAxM/bdtrrDIUcr4ODy4bv9X-tP-afgFFDcWrwCLcBGAsYHQ/s0/blackboard-with-sign-happy-mother-s-day-pink-table-with-beautiful-tulip-flowers.jpg"
+        },
+        "deliveryCharge": 60,
+        "total": 474,
+        "finalTotal": 534
+      },
+      "paymentStatus": false,
+      "payDate": "",
+      "deliveryStatus": "包裝貨品",
+      "email": "cookiesss@gmail.com",
+      "name": "餅乾之王",
+      "phoneNum": "0958282749",
+      "address": "餅乾星球",
+      "message": "",
+      "id": 41
+    },
+    {
+      "creatAt": 1680255912967,
+      "cart": {
+        "id": 1,
+        "items": [
+          {
+            "product": {
+              "relevantRecipes": [
+                "抹茶巧克力馬卡龍",
+                "日式草莓蛋糕",
+                "巧克力閃電泡芙"
+              ],
+              "price": 90,
+              "num": 200,
+              "unit": "ml",
+              "title": "動物性鮮奶油",
+              "description": "總統牌鮮奶油產自法國布列塔尼及諾曼地等地區，純淨肥沃的天然畜牧環境孕育出香醇可口的生乳品質！\n 豐富的鈣質及維他命來源：每100公克的鮮奶油，提供80毫克至90毫克的鈣質，較牛奶含有更高的脂溶性維他命A、D、E、K！\n用於西式料理、糕點烘焙，濃純的芳香帶出馥郁的口感！打發效果佳，綿密細緻的質地，更是慕斯奶醬甜點類的最大優勢！",
+              "imgUrl": "https://ufileweb.hiwinner.tw/HiperShop/rwd1163/Store/prodPic/prod_Pics2PDTD0020%20(2).png",
+              "id": 12,
+              "originalPrice": 90,
+              "isCheaper": false,
+              "imgsUrl": [],
+              "category": "單一產品"
+            },
+            "qty": 7,
+            "total": 630
+          },
+          {
+            "product": {
+              "title": "蘭姆酒",
+              "num": 175,
+              "unit": "ml",
+              "price": 800,
+              "description": "南投酒廠為開發具有台灣在地風土特色產品，特別以在地南投紅甘蔗的故鄉-埔里地區紅甘蔗，做為原料以釀製蘭姆酒。由資深師傅們清洗甘蔗、碾壓榨汁、自然發酵，並以減壓式壺型蒸餾器採二次蒸餾工法，以擷取酒心獲取甘蔗白酒的最佳香氣，最後裝入全新白橡木桶內，在酒窖中沉睡多年，醞釀出帶著冬季夕陽的金黃色澤、草本清新的香氣馥郁而饒富多元的層次變化、口感甜潤豐富的「台灣紅甘蔗單一蘭姆酒」。",
+              "imgUrl": "https://wildjac.co.uk/wp-content/uploads/2023/01/Honey-Spiced-Rum-scaled.jpg",
+              "id": 7,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕"
+              ],
+              "originalPrice": 1200,
+              "isCheaper": true,
+              "imgsUrl": [
+                "https://www.tasteofhome.com/wp-content/uploads/2019/06/dark-stormy-rum-cocktail-lime-ginger-shutterstock_385915783.jpg?fit=700,700"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 11,
+            "total": 8800
+          }
+        ],
+        "coupon": {
+          "title": "滿5000打8折",
+          "discount": 20,
+          "code": "20OFF",
+          "is_enabled": "1",
+          "img": "https://photoos.mac89.com/2019/07/29/EPS-190729_31/4wrohV3Cj4_small.jpg",
+          "description": "超級好康的優惠，快快搶購購滿5000元",
+          "startDate": 1680048000000,
+          "dueDate": 1680739200000,
+          "id": 2
+        },
+        "deliveryCharge": 60,
+        "total": 9430,
+        "finalTotal": 7604
+      },
+      "paymentStatus": false,
+      "payDate": "",
+      "deliveryStatus": "包裝貨品",
+      "email": "cookiesss@gmail.com",
+      "name": "餅乾之王",
+      "phoneNum": "0958282749",
+      "address": "餅乾星球",
+      "message": "",
+      "id": 44
+    },
+    {
+      "creatAt": 1680261427139,
+      "cart": {
+        "id": 1,
+        "items": [
+          {
+            "product": {
+              "title": "義式咖啡包",
+              "num": 50,
+              "unit": "ml",
+              "price": 40,
+              "description": "你也是不能沒有咖啡一族嗎？忙碌的生活沒時間慢磨慢沖，『旅珈啡-義式咖啡包』隨身包裝隨身攜帶，任何時刻享受美味咖啡。獨立包裝保有新鮮。撕開包裝倒入義式咖啡液，立即享用，不需操作設備與器具，更不需清潔保養設備，只需輕輕鬆鬆享用咖啡。",
+              "imgUrl": "https://goodmockups.com/wp-content/uploads/2019/08/Free-Kraft-Paper-Coffee-Bag-Mockup-PSD-Set.jpg",
+              "id": 3,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕"
+              ],
+              "isCheaper": false,
+              "originalPrice": 40,
+              "imgsUrl": [
+                "https://goodmockups.com/wp-content/uploads/2019/08/Free-Kraft-Paper-Coffee-Bag-Mockup-PSD-Set-3.jpg",
+                "https://coffeeaffection.com/wp-content/uploads/2021/03/Coffee-and-tea-bags_Shutterstock_Jouke-van-Keulen.jpg",
+                "https://1.bp.blogspot.com/-ruisE3cfKzE/X4_3IWR5WrI/AAAAAAAAI4E/vW8ZyerwhfQyhumUj88LUjZoUXBsv7oHwCLcBGAsYHQ/s263/Coffee%2BTea%2BBags.jpg"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 5,
+            "total": 200
+          },
+          {
+            "product": {
+              "title": "精製細砂糖",
+              "num": 500,
+              "unit": "g",
+              "price": 45,
+              "description": "料理 調味好幫手",
+              "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
+              "id": 4,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕",
+                "抹茶巧克力馬卡龍",
+                "日式草莓蛋糕",
+                "巧克力閃電泡芙",
+                "鳳梨酥",
+                "比司吉",
+                "舒芙蕾",
+                "巧克力布朗尼",
+                "關東風櫻餅",
+                " 紅絲絨杯子蛋糕"
+              ],
+              "originalPrice": 45,
+              "isCheaper": false,
+              "imgsUrl": [
+                "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
+                "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
+                "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 5,
+            "total": 225
+          }
+        ],
+        "coupon": {
+          "title": "滿5000打8折",
+          "discount": 20,
+          "code": "20OFF",
+          "is_enabled": "1",
+          "img": "https://photoos.mac89.com/2019/07/29/EPS-190729_31/4wrohV3Cj4_small.jpg",
+          "description": "超級好康的優惠，快快搶購購滿5000元",
+          "startDate": 1680048000000,
+          "dueDate": 1680739200000,
+          "id": 2
+        },
+        "deliveryCharge": 60,
+        "total": 425,
+        "finalTotal": 485
+      },
+      "paymentStatus": false,
+      "payDate": "",
+      "deliveryStatus": "包裝貨品",
+      "email": "cookiesss@gmail.com",
+      "name": "餅乾之王",
+      "phoneNum": "0958282749",
+      "address": "餅乾星球",
+      "message": "",
+      "id": 46
+    },
+    {
+      "creatAt": 1680264694777,
+      "cart": {
+        "id": 1,
+        "items": [
+          {
+            "product": {
+              "title": "義式咖啡包",
+              "num": 50,
+              "unit": "ml",
+              "price": 40,
+              "description": "你也是不能沒有咖啡一族嗎？忙碌的生活沒時間慢磨慢沖，『旅珈啡-義式咖啡包』隨身包裝隨身攜帶，任何時刻享受美味咖啡。獨立包裝保有新鮮。撕開包裝倒入義式咖啡液，立即享用，不需操作設備與器具，更不需清潔保養設備，只需輕輕鬆鬆享用咖啡。",
+              "imgUrl": "https://goodmockups.com/wp-content/uploads/2019/08/Free-Kraft-Paper-Coffee-Bag-Mockup-PSD-Set.jpg",
+              "id": 3,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕"
+              ],
+              "isCheaper": false,
+              "originalPrice": 40,
+              "imgsUrl": [
+                "https://goodmockups.com/wp-content/uploads/2019/08/Free-Kraft-Paper-Coffee-Bag-Mockup-PSD-Set-3.jpg",
+                "https://coffeeaffection.com/wp-content/uploads/2021/03/Coffee-and-tea-bags_Shutterstock_Jouke-van-Keulen.jpg",
+                "https://1.bp.blogspot.com/-ruisE3cfKzE/X4_3IWR5WrI/AAAAAAAAI4E/vW8ZyerwhfQyhumUj88LUjZoUXBsv7oHwCLcBGAsYHQ/s263/Coffee%2BTea%2BBags.jpg"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 3,
+            "total": 120
+          },
+          {
+            "product": {
+              "title": "精製細砂糖",
+              "num": 500,
+              "unit": "g",
+              "price": 45,
+              "description": "料理 調味好幫手",
+              "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
+              "id": 4,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕",
+                "抹茶巧克力馬卡龍",
+                "日式草莓蛋糕",
+                "巧克力閃電泡芙",
+                "鳳梨酥",
+                "比司吉",
+                "舒芙蕾",
+                "巧克力布朗尼",
+                "關東風櫻餅",
+                " 紅絲絨杯子蛋糕"
+              ],
+              "originalPrice": 45,
+              "isCheaper": false,
+              "imgsUrl": [
+                "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
+                "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
+                "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 4,
+            "total": 180
+          }
+        ],
+        "coupon": {
+          "id": 1,
+          "title": "母親節優惠",
+          "code": "MOM520",
+          "discount": 10,
+          "description": "響應母親節活動全站商品打9折~",
+          "startDate": 1679616000000,
+          "dueDate": 1680220800000,
+          "is_enabled": 1,
+          "img": "https://1.bp.blogspot.com/-FwUgQn5l8FE/YH0_C31iNLI/AAAAAAAAAxM/bdtrrDIUcr4ODy4bv9X-tP-afgFFDcWrwCLcBGAsYHQ/s0/blackboard-with-sign-happy-mother-s-day-pink-table-with-beautiful-tulip-flowers.jpg"
+        },
+        "deliveryCharge": 60,
+        "total": 300,
+        "finalTotal": 330
+      },
+      "paymentStatus": false,
+      "payDate": "",
+      "deliveryStatus": "包裝貨品",
+      "email": "cookiesss@gmail.com",
+      "name": "餅乾之王",
+      "phoneNum": "0958282749",
+      "address": "餅乾星球",
+      "message": "",
+      "id": 47
+    },
+    {
+      "creatAt": 1680264735481,
+      "cart": {
+        "id": 1,
+        "items": [
+          {
+            "product": {
+              "title": "可可粉",
+              "num": 300,
+              "unit": "g",
+              "price": 399,
+              "description": "為了符合亞洲市場特別量身定制少糖配方，減糖配方可可適合怕胖的你。",
+              "imgUrl": "https://d1rp2dn3l01ufj.cloudfront.net/uploads/redactor_rails/picture/data/2927/96fffa4521.jpg",
+              "id": 6,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕",
+                "巧克力布朗尼",
+                " 紅絲絨杯子蛋糕"
+              ],
+              "originalPrice": 450,
+              "isCheaper": true,
+              "imgsUrl": [
+                "https://hips.hearstapps.com/hmg-prod/images/cacao-beans-and-cacao-powder-royalty-free-image-1663876144.jpg",
+                "https://valuesupplies.co.za/wp-content/uploads/2021/02/1108.jpg"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 6,
+            "total": 2394
+          },
+          {
+            "product": {
+              "title": "蘭姆酒",
+              "num": 175,
+              "unit": "ml",
+              "price": 800,
+              "description": "南投酒廠為開發具有台灣在地風土特色產品，特別以在地南投紅甘蔗的故鄉-埔里地區紅甘蔗，做為原料以釀製蘭姆酒。由資深師傅們清洗甘蔗、碾壓榨汁、自然發酵，並以減壓式壺型蒸餾器採二次蒸餾工法，以擷取酒心獲取甘蔗白酒的最佳香氣，最後裝入全新白橡木桶內，在酒窖中沉睡多年，醞釀出帶著冬季夕陽的金黃色澤、草本清新的香氣馥郁而饒富多元的層次變化、口感甜潤豐富的「台灣紅甘蔗單一蘭姆酒」。",
+              "imgUrl": "https://wildjac.co.uk/wp-content/uploads/2023/01/Honey-Spiced-Rum-scaled.jpg",
+              "id": 7,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕"
+              ],
+              "originalPrice": 1200,
+              "isCheaper": true,
+              "imgsUrl": [
+                "https://www.tasteofhome.com/wp-content/uploads/2019/06/dark-stormy-rum-cocktail-lime-ginger-shutterstock_385915783.jpg?fit=700,700"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 5,
+            "total": 4000
+          }
+        ],
+        "coupon": {
+          "title": "滿5000打8折",
+          "discount": 20,
+          "code": "20OFF",
+          "is_enabled": "1",
+          "img": "https://photoos.mac89.com/2019/07/29/EPS-190729_31/4wrohV3Cj4_small.jpg",
+          "description": "超級好康的優惠，快快搶購購滿5000元",
+          "startDate": 1680048000000,
+          "dueDate": 1680739200000,
+          "id": 2
+        },
+        "deliveryCharge": 60,
+        "total": 6394,
+        "finalTotal": 5175
+      },
+      "paymentStatus": false,
+      "payDate": "",
+      "deliveryStatus": "包裝貨品",
+      "email": "cookiesss@gmail.com",
+      "name": "餅乾之王",
+      "phoneNum": "0958282749",
+      "address": "餅乾星球",
+      "message": "",
+      "id": 48
+    },
+    {
+      "creatAt": 1680264773833,
+      "cart": {
+        "id": 1,
+        "items": [
+          {
+            "product": {
+              "title": "手指餅乾",
+              "num": 100,
+              "unit": "g",
+              "price": 50,
+              "description": "製作提拉米蘇,慕斯類等各式甜點的最佳夥伴,作為甜點夾層或底層原料,強口感佳。",
+              "imgUrl": "http://n.sinaimg.cn/sinacn10110/235/w640h395/20191008/46a8-ifrwayw5888780.jpg",
+              "id": 2,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕"
+              ],
+              "isCheaper": false,
+              "originalPrice": 50,
+              "imgsUrl": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTySQND9CHp34LiAmCliRUeWvMlSknQ_VshPlKiL43FgfKv-PoJ7qPLRx82-qvKrvKGQio&usqp=CAU",
+                "http://n.sinaimg.cn/sinacn10110/235/w640h395/20191008/6f1b-ifrwayw5889319.jpg",
+                "http://n.sinaimg.cn/sinacn10110/237/w640h397/20191008/ea7f-ifrwayw5889159.jpg"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 5,
+            "total": 250
+          },
+          {
+            "product": {
+              "title": "馬斯卡邦起司",
+              "num": 500,
+              "unit": "g",
+              "price": 199,
+              "description": "Mascarpone是一種未經熟成的義式傳統軟質新鮮乳酪，帶有微甜的口感與豐富的奶香，質地如天鵝絨般的滑順，適用在各式料理烹調，它的用途相當豐富，可代替鮮奶油，也可作為醬汁、沾料或是抹醬。",
+              "imgUrl": "https://img.my-best.tw/content_section/afterwards_tips/8cd86b9ab34faf746a9b51c6db2c4450.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=8764e0bab952e10bb16192d430fae149",
+              "id": 1,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕"
+              ],
+              "isCheaper": true,
+              "originalPrice": 300,
+              "imgsUrl": [
+                "https://www.verywellfit.com/thmb/fjnt_aoNDUHR2yGs93ygFMym0OM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-154953089-8c4680433ae1462aa9e66764de832c72.jpg",
+                "https://www.daringgourmet.com/wp-content/uploads/2020/02/Mascarpone-4-square-scaled.jpg",
+                "https://img.sndimg.com/food/image/upload/w_555,h_416,c_fit,fl_progressive,q_95/v1/img/recipes/66/07/7/picHyysdd.jpg",
+                "https://www.gourmetspartner.com/rwd1163/Store/bImages/b_PDTD8600.jpg",
+                "https://img.my-best.tw/content_section/beforehand_tips/2022d65df7fddb13f5ec706c7615684d.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=177509c8582d3dd982e0cfda74f8e20a",
+                "https://img.my-best.tw/content_section/choice_component/contents/68ac8cfbe8a0ce797138046c49eeef67.jpg?ixlib=rails-4.3.1&q=70&lossless=0&w=690&fit=max&s=f557a22c0eb6f7410ce2153161969d5d"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 6,
+            "total": 1194
+          }
+        ],
+        "coupon": {
+          "id": 1,
+          "title": "母親節優惠",
+          "code": "MOM520",
+          "discount": 10,
+          "description": "響應母親節活動全站商品打9折~",
+          "startDate": 1679616000000,
+          "dueDate": 1680220800000,
+          "is_enabled": 1,
+          "img": "https://1.bp.blogspot.com/-FwUgQn5l8FE/YH0_C31iNLI/AAAAAAAAAxM/bdtrrDIUcr4ODy4bv9X-tP-afgFFDcWrwCLcBGAsYHQ/s0/blackboard-with-sign-happy-mother-s-day-pink-table-with-beautiful-tulip-flowers.jpg"
+        },
+        "deliveryCharge": 60,
+        "total": 1444,
+        "finalTotal": 1359
+      },
+      "paymentStatus": false,
+      "payDate": "",
+      "deliveryStatus": "包裝貨品",
+      "email": "duck@gmail.com",
+      "name": "鴨子",
+      "phoneNum": "0958282749",
+      "address": "池塘",
+      "message": "",
+      "id": 49
+    },
+    {
+      "creatAt": 1680264800912,
+      "cart": {
+        "id": 1,
+        "items": [
+          {
+            "product": {
+              "title": "可可粉",
+              "num": 300,
+              "unit": "g",
+              "price": 399,
+              "description": "為了符合亞洲市場特別量身定制少糖配方，減糖配方可可適合怕胖的你。",
+              "imgUrl": "https://d1rp2dn3l01ufj.cloudfront.net/uploads/redactor_rails/picture/data/2927/96fffa4521.jpg",
+              "id": 6,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕",
+                "巧克力布朗尼",
+                " 紅絲絨杯子蛋糕"
+              ],
+              "originalPrice": 450,
+              "isCheaper": true,
+              "imgsUrl": [
+                "https://hips.hearstapps.com/hmg-prod/images/cacao-beans-and-cacao-powder-royalty-free-image-1663876144.jpg",
+                "https://valuesupplies.co.za/wp-content/uploads/2021/02/1108.jpg"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 5,
+            "total": 1995
+          },
+          {
+            "product": {
+              "title": "蘭姆酒",
+              "num": 175,
+              "unit": "ml",
+              "price": 800,
+              "description": "南投酒廠為開發具有台灣在地風土特色產品，特別以在地南投紅甘蔗的故鄉-埔里地區紅甘蔗，做為原料以釀製蘭姆酒。由資深師傅們清洗甘蔗、碾壓榨汁、自然發酵，並以減壓式壺型蒸餾器採二次蒸餾工法，以擷取酒心獲取甘蔗白酒的最佳香氣，最後裝入全新白橡木桶內，在酒窖中沉睡多年，醞釀出帶著冬季夕陽的金黃色澤、草本清新的香氣馥郁而饒富多元的層次變化、口感甜潤豐富的「台灣紅甘蔗單一蘭姆酒」。",
+              "imgUrl": "https://wildjac.co.uk/wp-content/uploads/2023/01/Honey-Spiced-Rum-scaled.jpg",
+              "id": 7,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕"
+              ],
+              "originalPrice": 1200,
+              "isCheaper": true,
+              "imgsUrl": [
+                "https://www.tasteofhome.com/wp-content/uploads/2019/06/dark-stormy-rum-cocktail-lime-ginger-shutterstock_385915783.jpg?fit=700,700"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 7,
+            "total": 5600
+          }
+        ],
+        "coupon": {
+          "title": "滿5000打8折",
+          "discount": 20,
+          "code": "20OFF",
+          "is_enabled": "1",
+          "img": "https://photoos.mac89.com/2019/07/29/EPS-190729_31/4wrohV3Cj4_small.jpg",
+          "description": "超級好康的優惠，快快搶購購滿5000元",
+          "startDate": 1680048000000,
+          "dueDate": 1680739200000,
+          "id": 2
+        },
+        "deliveryCharge": 60,
+        "total": 7595,
+        "finalTotal": 6136
+      },
+      "paymentStatus": false,
+      "payDate": "",
+      "deliveryStatus": "包裝貨品",
+      "email": "duck@gmail.com",
+      "name": "鴨子",
+      "phoneNum": "0958282749",
+      "address": "池塘",
+      "message": "",
+      "id": 50
+    },
+    {
+      "creatAt": 1680267045055,
+      "cart": {
+        "id": 1,
+        "items": [
+          {
+            "product": {
+              "title": "蘭姆酒",
+              "num": 175,
+              "unit": "ml",
+              "price": 800,
+              "description": "南投酒廠為開發具有台灣在地風土特色產品，特別以在地南投紅甘蔗的故鄉-埔里地區紅甘蔗，做為原料以釀製蘭姆酒。由資深師傅們清洗甘蔗、碾壓榨汁、自然發酵，並以減壓式壺型蒸餾器採二次蒸餾工法，以擷取酒心獲取甘蔗白酒的最佳香氣，最後裝入全新白橡木桶內，在酒窖中沉睡多年，醞釀出帶著冬季夕陽的金黃色澤、草本清新的香氣馥郁而饒富多元的層次變化、口感甜潤豐富的「台灣紅甘蔗單一蘭姆酒」。",
+              "imgUrl": "https://wildjac.co.uk/wp-content/uploads/2023/01/Honey-Spiced-Rum-scaled.jpg",
+              "id": 7,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕"
+              ],
+              "originalPrice": 1200,
+              "isCheaper": true,
+              "imgsUrl": [
+                "https://www.tasteofhome.com/wp-content/uploads/2019/06/dark-stormy-rum-cocktail-lime-ginger-shutterstock_385915783.jpg?fit=700,700"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 15,
+            "total": 12000
+          }
+        ],
+        "coupon": {
+          "title": "滿5000打8折",
+          "discount": 20,
+          "code": "20OFF",
+          "is_enabled": "1",
+          "img": "https://photoos.mac89.com/2019/07/29/EPS-190729_31/4wrohV3Cj4_small.jpg",
+          "description": "超級好康的優惠，快快搶購購滿5000元",
+          "startDate": 1680048000000,
+          "dueDate": 1680739200000,
+          "id": 2
+        },
+        "deliveryCharge": 60,
+        "total": 12000,
+        "finalTotal": 9660
+      },
+      "paymentStatus": false,
+      "payDate": "",
+      "deliveryStatus": "包裝貨品",
+      "email": "duck@gmail.com",
+      "name": "鴨子",
+      "phoneNum": "0958282749",
+      "address": "池塘",
+      "message": "",
+      "id": 52
+    },
+    {
+      "userId": "11",
+      "creatAt": 1680329553618,
+      "cart": {
+        "id": 1680329537888,
+        "items": [
+          {
+            "product": {
+              "title": "蘭姆酒",
+              "num": 175,
+              "unit": "ml",
+              "price": 800,
+              "description": "南投酒廠為開發具有台灣在地風土特色產品，特別以在地南投紅甘蔗的故鄉-埔里地區紅甘蔗，做為原料以釀製蘭姆酒。由資深師傅們清洗甘蔗、碾壓榨汁、自然發酵，並以減壓式壺型蒸餾器採二次蒸餾工法，以擷取酒心獲取甘蔗白酒的最佳香氣，最後裝入全新白橡木桶內，在酒窖中沉睡多年，醞釀出帶著冬季夕陽的金黃色澤、草本清新的香氣馥郁而饒富多元的層次變化、口感甜潤豐富的「台灣紅甘蔗單一蘭姆酒」。",
+              "imgUrl": "https://wildjac.co.uk/wp-content/uploads/2023/01/Honey-Spiced-Rum-scaled.jpg",
+              "id": 7,
+              "relevantRecipes": [
+                "提拉米蘇蛋糕"
+              ],
+              "originalPrice": 1200,
+              "isCheaper": true,
+              "imgsUrl": [
+                "https://www.tasteofhome.com/wp-content/uploads/2019/06/dark-stormy-rum-cocktail-lime-ginger-shutterstock_385915783.jpg?fit=700,700"
+              ],
+              "category": "單一產品"
+            },
+            "qty": 15,
+            "total": 12000
+          }
+        ],
+        "coupon": {},
+        "deliveryCharge": 60,
+        "total": 12000,
+        "finalTotal": 12060,
+        "userId": "11"
+      },
+      "paymentStatus": false,
+      "payDate": "",
+      "deliveryStatus": "待出貨",
+      "email": "happy@gmail.com",
+      "name": "dfgdf",
+      "phoneNum": "0958282749",
+      "address": "SSS",
+      "message": "",
+      "id": 69
+    }
+  ],
+  "lotteries": [
+    {
+      "id": 1,
+      "name": "食譜抽抽樂",
+      "rules": [
+        "單筆消費滿1000元即可獲得一張抽獎券。",
+        "抽中的材料若能組合成一個特定完整甜點食譜即能兌獎獎品。",
+        "最優先集齊材料者可獲得大獎，其餘獲獎人按照集齊時間先後順序依序獲得次獎、三獎。"
+      ],
+      "prizes": [
+        {
+          "id": 1,
+          "title": "平板",
+          "img": "https://i2.momoshop.com.tw/1677792437/goodsimg/0011/022/250/11022250_O_m.webp",
+          "price": 10000,
+          "people": "1人"
+        },
+        {
+          "id": 2,
+          "title": "液晶電視",
+          "img": "https://www.lg.com/tw/images/tvs/32ls5600/gallery/large01.jpg",
+          "price": 5000,
+          "people": "2人"
+        },
+        {
+          "id": 3,
+          "title": "精美帆布袋",
+          "img": "https://images.unsplash.com/photo-1574365569389-a10d488ca3fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+          "price": 300,
+          "people": "不限"
+        }
+      ],
+      "recipeId": 2,
+      "startDate": 1679616000000,
+      "dueDate": 1680825600000,
+      "is_enabled": 1,
+      "recipe": {
+        "id": 2,
+        "title": "抹茶巧克力馬卡龍",
+        "category": "法式甜點",
+        "description": "這次的法式馬卡龍，我們是選用了小山園的又玄抹茶粉，來烤一盤抹茶綠X巧克力甘納許內餡的 Macarons。老實說，要在家裡自己做法式馬卡龍，材料與作法真的意外的簡單，但是失敗率卻非常高，可以說是最讓人挫敗的一個甜點了。主要就是因為馬卡龍對於濕度以及烤溫相當的敏感，尤其在潮濕氣候的城市裡，做起來真的是會做到懷疑人生 XD 所以影片裡，我們就跟大家分享了如何在潮濕氣候，即便是在梅雨季節(相對濕度高達80~90%)，也能成功的把馬卡龍給烤出來，像是使用老蛋白、微炒乾燥過的杏仁粉、快速有效的馬卡龍結皮方式等等。** 法式馬卡龍最佳品嚐的時間，是在擠好內餡後，放到冰箱冰過24小時以後，才是最適合的時機。** 擠好的內餡會濕潤馬卡龍的餅乾，讓餅乾內部更為膨發，同時冰過的馬卡龍，表面會更有光澤。",
+        "author": "糖餃子Sweet Dumpling",
+        "content": "12個",
+        "image": "https://tokyo-kitchen.icook.network/uploads/step/cover/1471790/07f575b56b4b4469.jpg",
+        "ingredients": [
+          {
+            "name": "老蛋白",
+            "num": 30,
+            "unit": "g"
+          },
+          {
+            "name": "杏仁粉",
+            "num": 30,
+            "unit": "g"
+          },
+          {
+            "name": "細砂糖",
+            "num": 15,
+            "unit": "g"
+          },
+          {
+            "name": "糖粉",
+            "num": 62,
+            "unit": "g"
+          },
+          {
+            "name": "抹茶粉",
+            "num": 1,
+            "unit": "g"
+          },
+          {
+            "name": "苦甜巧克力",
+            "num": 100,
+            "unit": "g"
+          },
+          {
+            "name": "鮮奶油",
+            "num": 100,
+            "unit": "g"
+          }
+        ],
+        "instructions": "1. 把杏仁粉、糖粉、抹茶粉倒入料理機攪打10秒鐘(目的是把杏仁粉打到更細緻，沒有料理機的話，這個步驟可以省略，不影響口感，但馬卡龍的表面有可能會比較粗糙)2. 將上面的乾粉過篩，過篩要過兩次，同時建議使用很細的濾網，過好篩的乾粉備用。3. 接著打蛋白，蛋白打到變成白色小泡泡時，把砂糖分三次加入。4. 持續攪打蛋白，一直到出現小彎勾(大約是比軟性發泡硬，但還不到硬性發泡)。5. 將乾粉分兩次加入蛋白霜裡，以切拌法拌勻。6. 攪拌馬卡龍的麵糊不能太過度，拌一拌就要檢查是否有光澤，同時拉起落下時，會呈現緞帶狀，一旦有這種程度，就要立刻停止攪拌。7. 把麵糊倒入擠花袋，擠成大約3公分左右的圓形。8. 擠好後，拿起烤盤在桌面敲打，四邊都要敲一次。9. 以牙籤戳破剛敲打後跑出來的氣泡。10. 把烤盤放到乾燥的地方靜置，一直到麵糊表面結皮(天氣潮濕時，可以直接用除濕機對著烤盤吹)。11. 結皮後，就可以送烤箱了",
+        "video": "https://www.youtube.com/embed/LBA1jLXRoQ0",
+        "relativeProducts": [
+          {
+            "title": "精製細砂糖",
+            "num": 500,
+            "unit": "g",
+            "price": 45,
+            "description": "料理 調味好幫手",
+            "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
+            "id": 4,
+            "relevantRecipes": [
+              "提拉米蘇蛋糕",
+              "抹茶巧克力馬卡龍",
+              "日式草莓蛋糕",
+              "巧克力閃電泡芙",
+              "鳳梨酥",
+              "比司吉",
+              "舒芙蕾",
+              "巧克力布朗尼",
+              "關東風櫻餅",
+              " 紅絲絨杯子蛋糕"
+            ],
+            "originalPrice": 45,
+            "isCheaper": false,
+            "imgsUrl": [
+              "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
+              "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
+              "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
+            ],
+            "category": "單一產品"
+          },
+          {
+            "title": "雞蛋",
+            "num": 10,
+            "unit": "顆",
+            "price": 130,
+            "description": "放牧飼養、餵食草本飼料的雞蛋，雞蛋清甜適合水煮、煎、炒等多種烹調方式，簡單的海鹽就很美味。",
+            "imgUrl": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg",
+            "id": 5,
+            "relevantRecipes": [
+              "提拉米蘇蛋糕",
+              "抹茶巧克力馬卡龍",
+              "日式草莓蛋糕",
+              "巧克力閃電泡芙",
+              "鳳梨酥",
+              "舒芙蕾",
+              "巧克力布朗尼",
+              " 紅絲絨杯子蛋糕"
+            ],
+            "originalPrice": 200,
+            "isCheaper": true,
+            "imgsUrl": [
+              "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/08/egg-yolk-1296x728-header.jpg?w=1155&h=1528",
+              "https://samitivej-prod-new-website.s3.ap-southeast-1.amazonaws.com/public/uploads/descriptions/d1a738734066eac562744ef1d99c6f36.jpg",
+              "https://post.healthline.com/wp-content/uploads/2020/05/eggs-counter-732x549-thumbnail-732x549.jpg"
+            ],
+            "category": "單一產品"
+          },
+          {
+            "imgUrl": "https://static.wixstatic.com/media/e193cd_26a08b3c53ee461d8659c421c7a115d5~mv2.jpg/v1/fill/w_600,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%E6%9D%8F%E4%BB%81%E7%B2%89.jpg",
+            "title": "杏仁粉",
+            "num": 200,
+            "unit": "g",
+            "price": 100,
+            "description": "杏仁含豐富的優質蛋白\n\n特別適合發育中的兒童食用。\n\n杏仁營養價值高含豐富的\n\n單元不飽和脂肪酸，維他命E，維他命B17。",
+            "id": 8,
+            "relevantRecipes": [
+              "抹茶巧克力馬卡龍"
+            ],
+            "originalPrice": 100,
+            "isCheaper": false,
+            "category": "單一產品"
+          },
+          {
+            "imgUrl": "https://www.ycbake.com.tw/upfd/upimage/PD-180212-018403.jpg",
+            "title": "糖粉",
+            "num": 250,
+            "unit": "g",
+            "price": 35,
+            "description": "台中70年老店，大華糖行分裝，安全無虞。台糖公司小港廠，精緻特砂，100%品質保證",
+            "relevantRecipes": [
+              "抹茶巧克力馬卡龍",
+              "日式草莓蛋糕",
+              "鳳梨酥",
+              " 紅絲絨杯子蛋糕"
+            ],
+            "id": 9,
+            "originalPrice": 35,
+            "isCheaper": false,
+            "imgsUrl": [],
+            "category": "單一產品"
+          },
+          {
+            "relevantRecipes": [
+              "抹茶巧克力馬卡龍"
+            ],
+            "imgUrl": "https://img.shoplineapp.com/media/image_clips/5eeefe53109b5d00302186a4/original.png?1592720976",
+            "title": "抹茶粉",
+            "price": 140,
+            "num": 200,
+            "unit": "g",
+            "id": 10,
+            "description": "日本京都製造『日本京都抹茶粉』適合用於日常烘焙及飲品調配。 無糖配方，體驗最純正的日本抹茶風味。",
+            "originalPrice": 200,
+            "isCheaper": true,
+            "imgsUrl": [],
+            "category": "單一產品"
+          },
+          {
+            "relevantRecipes": [
+              "抹茶巧克力馬卡龍",
+              "巧克力閃電泡芙",
+              "巧克力布朗尼"
+            ],
+            "title": "黑巧克力",
+            "num": 200,
+            "unit": "g",
+            "price": 150,
+            "description": "頂級比利時可可原料 MIT台灣製造，歐式浪漫、質感外盒。\n\n最純粹的黑巧克力，每一口都是高品質可可的綿密的多層次口感。\n\n半年售出十萬片，超級熱銷品，懂吃的老饕就懂！",
+            "imgUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/12/24/99/14876192.jpg&x=0&y=0&sw=800&sh=452&s=Y&sl=W&fw=1280&exp=3600",
+            "id": 11,
+            "originalPrice": 150,
+            "isCheaper": false,
+            "imgsUrl": [],
+            "category": "單一產品"
+          },
+          {
+            "relevantRecipes": [
+              "抹茶巧克力馬卡龍",
+              "日式草莓蛋糕",
+              "巧克力閃電泡芙"
+            ],
+            "price": 90,
+            "num": 200,
+            "unit": "ml",
+            "title": "動物性鮮奶油",
+            "description": "總統牌鮮奶油產自法國布列塔尼及諾曼地等地區，純淨肥沃的天然畜牧環境孕育出香醇可口的生乳品質！\n 豐富的鈣質及維他命來源：每100公克的鮮奶油，提供80毫克至90毫克的鈣質，較牛奶含有更高的脂溶性維他命A、D、E、K！\n用於西式料理、糕點烘焙，濃純的芳香帶出馥郁的口感！打發效果佳，綿密細緻的質地，更是慕斯奶醬甜點類的最大優勢！",
+            "imgUrl": "https://ufileweb.hiwinner.tw/HiperShop/rwd1163/Store/prodPic/prod_Pics2PDTD0020%20(2).png",
+            "id": 12,
+            "originalPrice": 90,
+            "isCheaper": false,
+            "imgsUrl": [],
+            "category": "單一產品"
+          },
+          {
+            "relevantRecipes": [
+              "抹茶巧克力馬卡龍"
+            ],
+            "isCheaper": true,
+            "imgsUrl": [],
+            "imgUrl": "https://tokyo-kitchen.icook.network/uploads/step/cover/1471790/07f575b56b4b4469.jpg",
+            "category": "組合包",
+            "title": "抹茶巧克力馬卡龍食材組合包",
+            "num": 12,
+            "unit": "個",
+            "originalPrice": 690,
+            "price": 500,
+            "id": 38,
+            "description": "內含所有抹茶巧克力馬卡龍製作材料：\n1. 精製細砂糖 ： 500g / 45 元\n2. 雞蛋 ： 10顆 / 130 元\n3. 杏仁粉 ： 200g / 100 元\n4. 糖粉 ： 250g / 35 元\n5. 抹茶粉 ： 200g / 140 元\n6. 黑巧克力 ： 200g / 150 元\n7. 動物性鮮奶油 ： 200ml / 90 元"
+          }
+        ],
+        "total": 690,
+        "imgsUrl": [],
+        "price": 500
+      }
+    }
+  ],
+  "lotteryResults": [
+    {
+      "userId": "40",
+      "drewArr": [
+        {
+          "imgUrl": "https://static.wixstatic.com/media/e193cd_26a08b3c53ee461d8659c421c7a115d5~mv2.jpg/v1/fill/w_600,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%E6%9D%8F%E4%BB%81%E7%B2%89.jpg",
+          "title": "杏仁粉",
+          "num": 200,
+          "unit": "g",
+          "price": 100,
+          "description": "杏仁含豐富的優質蛋白\n\n特別適合發育中的兒童食用。\n\n杏仁營養價值高含豐富的\n\n單元不飽和脂肪酸，維他命E，維他命B17。",
+          "id": 8,
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍"
+          ],
+          "originalPrice": 100,
+          "isCheaper": false,
+          "category": "單一產品"
+        },
+        {
+          "title": "雞蛋",
+          "num": 10,
+          "unit": "顆",
+          "price": 130,
+          "description": "放牧飼養、餵食草本飼料的雞蛋，雞蛋清甜適合水煮、煎、炒等多種烹調方式，簡單的海鹽就很美味。",
+          "imgUrl": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg",
+          "id": 5,
+          "relevantRecipes": [
+            "提拉米蘇蛋糕",
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙",
+            "鳳梨酥",
+            "舒芙蕾",
+            "巧克力布朗尼",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "originalPrice": 200,
+          "isCheaper": true,
+          "imgsUrl": [
+            "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/08/egg-yolk-1296x728-header.jpg?w=1155&h=1528",
+            "https://samitivej-prod-new-website.s3.ap-southeast-1.amazonaws.com/public/uploads/descriptions/d1a738734066eac562744ef1d99c6f36.jpg",
+            "https://post.healthline.com/wp-content/uploads/2020/05/eggs-counter-732x549-thumbnail-732x549.jpg"
+          ],
+          "category": "單一產品"
+        },
+        {
+          "title": "精製細砂糖",
+          "num": 500,
+          "unit": "g",
+          "price": 45,
+          "description": "料理 調味好幫手",
+          "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
+          "id": 4,
+          "relevantRecipes": [
+            "提拉米蘇蛋糕",
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙",
+            "鳳梨酥",
+            "比司吉",
+            "舒芙蕾",
+            "巧克力布朗尼",
+            "關東風櫻餅",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "originalPrice": 45,
+          "isCheaper": false,
+          "imgsUrl": [
+            "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
+            "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
+            "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
+          ],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙"
+          ],
+          "price": 90,
+          "num": 200,
+          "unit": "ml",
+          "title": "動物性鮮奶油",
+          "description": "總統牌鮮奶油產自法國布列塔尼及諾曼地等地區，純淨肥沃的天然畜牧環境孕育出香醇可口的生乳品質！\n 豐富的鈣質及維他命來源：每100公克的鮮奶油，提供80毫克至90毫克的鈣質，較牛奶含有更高的脂溶性維他命A、D、E、K！\n用於西式料理、糕點烘焙，濃純的芳香帶出馥郁的口感！打發效果佳，綿密細緻的質地，更是慕斯奶醬甜點類的最大優勢！",
+          "imgUrl": "https://ufileweb.hiwinner.tw/HiperShop/rwd1163/Store/prodPic/prod_Pics2PDTD0020%20(2).png",
+          "id": 12,
+          "originalPrice": 90,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍"
+          ],
+          "imgUrl": "https://img.shoplineapp.com/media/image_clips/5eeefe53109b5d00302186a4/original.png?1592720976",
+          "title": "抹茶粉",
+          "price": 140,
+          "num": 200,
+          "unit": "g",
+          "id": 10,
+          "description": "日本京都製造『日本京都抹茶粉』適合用於日常烘焙及飲品調配。 無糖配方，體驗最純正的日本抹茶風味。",
+          "originalPrice": 200,
+          "isCheaper": true,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "imgUrl": "https://www.ycbake.com.tw/upfd/upimage/PD-180212-018403.jpg",
+          "title": "糖粉",
+          "num": 250,
+          "unit": "g",
+          "price": 35,
+          "description": "台中70年老店，大華糖行分裝，安全無虞。台糖公司小港廠，精緻特砂，100%品質保證",
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "鳳梨酥",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "id": 9,
+          "originalPrice": 35,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "巧克力閃電泡芙",
+            "巧克力布朗尼"
+          ],
+          "title": "黑巧克力",
+          "num": 200,
+          "unit": "g",
+          "price": 150,
+          "description": "頂級比利時可可原料 MIT台灣製造，歐式浪漫、質感外盒。\n\n最純粹的黑巧克力，每一口都是高品質可可的綿密的多層次口感。\n\n半年售出十萬片，超級熱銷品，懂吃的老饕就懂！",
+          "imgUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/12/24/99/14876192.jpg&x=0&y=0&sw=800&sh=452&s=Y&sl=W&fw=1280&exp=3600",
+          "id": 11,
+          "originalPrice": 150,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        }
+      ],
+      "id": 1,
+      "getPrize": true,
+      "prizeNum": 1
+    },
+    {
+      "userId": "11",
+      "drewArr": [
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍"
+          ],
+          "imgUrl": "https://img.shoplineapp.com/media/image_clips/5eeefe53109b5d00302186a4/original.png?1592720976",
+          "title": "抹茶粉",
+          "price": 140,
+          "num": 200,
+          "unit": "g",
+          "id": 10,
+          "description": "日本京都製造『日本京都抹茶粉』適合用於日常烘焙及飲品調配。 無糖配方，體驗最純正的日本抹茶風味。",
+          "originalPrice": 200,
+          "isCheaper": true,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "title": "雞蛋",
+          "num": 10,
+          "unit": "顆",
+          "price": 130,
+          "description": "放牧飼養、餵食草本飼料的雞蛋，雞蛋清甜適合水煮、煎、炒等多種烹調方式，簡單的海鹽就很美味。",
+          "imgUrl": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg",
+          "id": 5,
+          "relevantRecipes": [
+            "提拉米蘇蛋糕",
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙",
+            "鳳梨酥",
+            "舒芙蕾",
+            "巧克力布朗尼",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "originalPrice": 200,
+          "isCheaper": true,
+          "imgsUrl": [
+            "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/08/egg-yolk-1296x728-header.jpg?w=1155&h=1528",
+            "https://samitivej-prod-new-website.s3.ap-southeast-1.amazonaws.com/public/uploads/descriptions/d1a738734066eac562744ef1d99c6f36.jpg",
+            "https://post.healthline.com/wp-content/uploads/2020/05/eggs-counter-732x549-thumbnail-732x549.jpg"
+          ],
+          "category": "單一產品"
+        },
+        {
+          "title": "精製細砂糖",
+          "num": 500,
+          "unit": "g",
+          "price": 45,
+          "description": "料理 調味好幫手",
+          "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
+          "id": 4,
+          "relevantRecipes": [
+            "提拉米蘇蛋糕",
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙",
+            "鳳梨酥",
+            "比司吉",
+            "舒芙蕾",
+            "巧克力布朗尼",
+            "關東風櫻餅",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "originalPrice": 45,
+          "isCheaper": false,
+          "imgsUrl": [
+            "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
+            "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
+            "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
+          ],
+          "category": "單一產品"
+        },
+        {
+          "imgUrl": "https://www.ycbake.com.tw/upfd/upimage/PD-180212-018403.jpg",
+          "title": "糖粉",
+          "num": 250,
+          "unit": "g",
+          "price": 35,
+          "description": "台中70年老店，大華糖行分裝，安全無虞。台糖公司小港廠，精緻特砂，100%品質保證",
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "鳳梨酥",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "id": 9,
+          "originalPrice": 35,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙"
+          ],
+          "price": 90,
+          "num": 200,
+          "unit": "ml",
+          "title": "動物性鮮奶油",
+          "description": "總統牌鮮奶油產自法國布列塔尼及諾曼地等地區，純淨肥沃的天然畜牧環境孕育出香醇可口的生乳品質！\n 豐富的鈣質及維他命來源：每100公克的鮮奶油，提供80毫克至90毫克的鈣質，較牛奶含有更高的脂溶性維他命A、D、E、K！\n用於西式料理、糕點烘焙，濃純的芳香帶出馥郁的口感！打發效果佳，綿密細緻的質地，更是慕斯奶醬甜點類的最大優勢！",
+          "imgUrl": "https://ufileweb.hiwinner.tw/HiperShop/rwd1163/Store/prodPic/prod_Pics2PDTD0020%20(2).png",
+          "id": 12,
+          "originalPrice": 90,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "imgUrl": "https://static.wixstatic.com/media/e193cd_26a08b3c53ee461d8659c421c7a115d5~mv2.jpg/v1/fill/w_600,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%E6%9D%8F%E4%BB%81%E7%B2%89.jpg",
+          "title": "杏仁粉",
+          "num": 200,
+          "unit": "g",
+          "price": 100,
+          "description": "杏仁含豐富的優質蛋白\n\n特別適合發育中的兒童食用。\n\n杏仁營養價值高含豐富的\n\n單元不飽和脂肪酸，維他命E，維他命B17。",
+          "id": 8,
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍"
+          ],
+          "originalPrice": 100,
+          "isCheaper": false,
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "巧克力閃電泡芙",
+            "巧克力布朗尼"
+          ],
+          "title": "黑巧克力",
+          "num": 200,
+          "unit": "g",
+          "price": 150,
+          "description": "頂級比利時可可原料 MIT台灣製造，歐式浪漫、質感外盒。\n\n最純粹的黑巧克力，每一口都是高品質可可的綿密的多層次口感。\n\n半年售出十萬片，超級熱銷品，懂吃的老饕就懂！",
+          "imgUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/12/24/99/14876192.jpg&x=0&y=0&sw=800&sh=452&s=Y&sl=W&fw=1280&exp=3600",
+          "id": 11,
+          "originalPrice": 150,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        }
+      ],
+      "id": 2,
+      "getPrize": true,
+      "prizeNum": 4
+    },
+    {
+      "userId": "2",
+      "drewArr": [
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "巧克力閃電泡芙",
+            "巧克力布朗尼"
+          ],
+          "title": "黑巧克力",
+          "num": 200,
+          "unit": "g",
+          "price": 150,
+          "description": "頂級比利時可可原料 MIT台灣製造，歐式浪漫、質感外盒。\n\n最純粹的黑巧克力，每一口都是高品質可可的綿密的多層次口感。\n\n半年售出十萬片，超級熱銷品，懂吃的老饕就懂！",
+          "imgUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/12/24/99/14876192.jpg&x=0&y=0&sw=800&sh=452&s=Y&sl=W&fw=1280&exp=3600",
+          "id": 11,
+          "originalPrice": 150,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "imgUrl": "https://static.wixstatic.com/media/e193cd_26a08b3c53ee461d8659c421c7a115d5~mv2.jpg/v1/fill/w_600,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%E6%9D%8F%E4%BB%81%E7%B2%89.jpg",
+          "title": "杏仁粉",
+          "num": 200,
+          "unit": "g",
+          "price": 100,
+          "description": "杏仁含豐富的優質蛋白\n\n特別適合發育中的兒童食用。\n\n杏仁營養價值高含豐富的\n\n單元不飽和脂肪酸，維他命E，維他命B17。",
+          "id": 8,
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍"
+          ],
+          "originalPrice": 100,
+          "isCheaper": false,
+          "category": "單一產品"
+        },
+        {
+          "imgUrl": "https://www.ycbake.com.tw/upfd/upimage/PD-180212-018403.jpg",
+          "title": "糖粉",
+          "num": 250,
+          "unit": "g",
+          "price": 35,
+          "description": "台中70年老店，大華糖行分裝，安全無虞。台糖公司小港廠，精緻特砂，100%品質保證",
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "鳳梨酥",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "id": 9,
+          "originalPrice": 35,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "title": "雞蛋",
+          "num": 10,
+          "unit": "顆",
+          "price": 130,
+          "description": "放牧飼養、餵食草本飼料的雞蛋，雞蛋清甜適合水煮、煎、炒等多種烹調方式，簡單的海鹽就很美味。",
+          "imgUrl": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg",
+          "id": 5,
+          "relevantRecipes": [
+            "提拉米蘇蛋糕",
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙",
+            "鳳梨酥",
+            "舒芙蕾",
+            "巧克力布朗尼",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "originalPrice": 200,
+          "isCheaper": true,
+          "imgsUrl": [
+            "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/08/egg-yolk-1296x728-header.jpg?w=1155&h=1528",
+            "https://samitivej-prod-new-website.s3.ap-southeast-1.amazonaws.com/public/uploads/descriptions/d1a738734066eac562744ef1d99c6f36.jpg",
+            "https://post.healthline.com/wp-content/uploads/2020/05/eggs-counter-732x549-thumbnail-732x549.jpg"
+          ],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍"
+          ],
+          "imgUrl": "https://img.shoplineapp.com/media/image_clips/5eeefe53109b5d00302186a4/original.png?1592720976",
+          "title": "抹茶粉",
+          "price": 140,
+          "num": 200,
+          "unit": "g",
+          "id": 10,
+          "description": "日本京都製造『日本京都抹茶粉』適合用於日常烘焙及飲品調配。 無糖配方，體驗最純正的日本抹茶風味。",
+          "originalPrice": 200,
+          "isCheaper": true,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "title": "精製細砂糖",
+          "num": 500,
+          "unit": "g",
+          "price": 45,
+          "description": "料理 調味好幫手",
+          "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
+          "id": 4,
+          "relevantRecipes": [
+            "提拉米蘇蛋糕",
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙",
+            "鳳梨酥",
+            "比司吉",
+            "舒芙蕾",
+            "巧克力布朗尼",
+            "關東風櫻餅",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "originalPrice": 45,
+          "isCheaper": false,
+          "imgsUrl": [
+            "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
+            "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
+            "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
+          ],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙"
+          ],
+          "price": 90,
+          "num": 200,
+          "unit": "ml",
+          "title": "動物性鮮奶油",
+          "description": "總統牌鮮奶油產自法國布列塔尼及諾曼地等地區，純淨肥沃的天然畜牧環境孕育出香醇可口的生乳品質！\n 豐富的鈣質及維他命來源：每100公克的鮮奶油，提供80毫克至90毫克的鈣質，較牛奶含有更高的脂溶性維他命A、D、E、K！\n用於西式料理、糕點烘焙，濃純的芳香帶出馥郁的口感！打發效果佳，綿密細緻的質地，更是慕斯奶醬甜點類的最大優勢！",
+          "imgUrl": "https://ufileweb.hiwinner.tw/HiperShop/rwd1163/Store/prodPic/prod_Pics2PDTD0020%20(2).png",
+          "id": 12,
+          "originalPrice": 90,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        }
+      ],
+      "id": 3,
+      "getPrize": true,
+      "prizeNum": 2
+    },
+    {
+      "userId": "10",
+      "drewArr": [
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍"
+          ],
+          "imgUrl": "https://img.shoplineapp.com/media/image_clips/5eeefe53109b5d00302186a4/original.png?1592720976",
+          "title": "抹茶粉",
+          "price": 140,
+          "num": 200,
+          "unit": "g",
+          "id": 10,
+          "description": "日本京都製造『日本京都抹茶粉』適合用於日常烘焙及飲品調配。 無糖配方，體驗最純正的日本抹茶風味。",
+          "originalPrice": 200,
+          "isCheaper": true,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "title": "雞蛋",
+          "num": 10,
+          "unit": "顆",
+          "price": 130,
+          "description": "放牧飼養、餵食草本飼料的雞蛋，雞蛋清甜適合水煮、煎、炒等多種烹調方式，簡單的海鹽就很美味。",
+          "imgUrl": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg",
+          "id": 5,
+          "relevantRecipes": [
+            "提拉米蘇蛋糕",
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙",
+            "鳳梨酥",
+            "舒芙蕾",
+            "巧克力布朗尼",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "originalPrice": 200,
+          "isCheaper": true,
+          "imgsUrl": [
+            "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/08/egg-yolk-1296x728-header.jpg?w=1155&h=1528",
+            "https://samitivej-prod-new-website.s3.ap-southeast-1.amazonaws.com/public/uploads/descriptions/d1a738734066eac562744ef1d99c6f36.jpg",
+            "https://post.healthline.com/wp-content/uploads/2020/05/eggs-counter-732x549-thumbnail-732x549.jpg"
+          ],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙"
+          ],
+          "price": 90,
+          "num": 200,
+          "unit": "ml",
+          "title": "動物性鮮奶油",
+          "description": "總統牌鮮奶油產自法國布列塔尼及諾曼地等地區，純淨肥沃的天然畜牧環境孕育出香醇可口的生乳品質！\n 豐富的鈣質及維他命來源：每100公克的鮮奶油，提供80毫克至90毫克的鈣質，較牛奶含有更高的脂溶性維他命A、D、E、K！\n用於西式料理、糕點烘焙，濃純的芳香帶出馥郁的口感！打發效果佳，綿密細緻的質地，更是慕斯奶醬甜點類的最大優勢！",
+          "imgUrl": "https://ufileweb.hiwinner.tw/HiperShop/rwd1163/Store/prodPic/prod_Pics2PDTD0020%20(2).png",
+          "id": 12,
+          "originalPrice": 90,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "巧克力閃電泡芙",
+            "巧克力布朗尼"
+          ],
+          "title": "黑巧克力",
+          "num": 200,
+          "unit": "g",
+          "price": 150,
+          "description": "頂級比利時可可原料 MIT台灣製造，歐式浪漫、質感外盒。\n\n最純粹的黑巧克力，每一口都是高品質可可的綿密的多層次口感。\n\n半年售出十萬片，超級熱銷品，懂吃的老饕就懂！",
+          "imgUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/12/24/99/14876192.jpg&x=0&y=0&sw=800&sh=452&s=Y&sl=W&fw=1280&exp=3600",
+          "id": 11,
+          "originalPrice": 150,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "imgUrl": "https://www.ycbake.com.tw/upfd/upimage/PD-180212-018403.jpg",
+          "title": "糖粉",
+          "num": 250,
+          "unit": "g",
+          "price": 35,
+          "description": "台中70年老店，大華糖行分裝，安全無虞。台糖公司小港廠，精緻特砂，100%品質保證",
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "鳳梨酥",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "id": 9,
+          "originalPrice": 35,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "imgUrl": "https://static.wixstatic.com/media/e193cd_26a08b3c53ee461d8659c421c7a115d5~mv2.jpg/v1/fill/w_600,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%E6%9D%8F%E4%BB%81%E7%B2%89.jpg",
+          "title": "杏仁粉",
+          "num": 200,
+          "unit": "g",
+          "price": 100,
+          "description": "杏仁含豐富的優質蛋白\n\n特別適合發育中的兒童食用。\n\n杏仁營養價值高含豐富的\n\n單元不飽和脂肪酸，維他命E，維他命B17。",
+          "id": 8,
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍"
+          ],
+          "originalPrice": 100,
+          "isCheaper": false,
+          "category": "單一產品"
+        },
+        {
+          "title": "精製細砂糖",
+          "num": 500,
+          "unit": "g",
+          "price": 45,
+          "description": "料理 調味好幫手",
+          "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
+          "id": 4,
+          "relevantRecipes": [
+            "提拉米蘇蛋糕",
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙",
+            "鳳梨酥",
+            "比司吉",
+            "舒芙蕾",
+            "巧克力布朗尼",
+            "關東風櫻餅",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "originalPrice": 45,
+          "isCheaper": false,
+          "imgsUrl": [
+            "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
+            "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
+            "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
+          ],
+          "category": "單一產品"
+        }
+      ],
+      "id": 4,
+      "getPrize": true,
+      "prizeNum": 3
+    },
+    {
+      "userId": "9",
+      "drewArr": [
+        {
+          "title": "雞蛋",
+          "num": 10,
+          "unit": "顆",
+          "price": 130,
+          "description": "放牧飼養、餵食草本飼料的雞蛋，雞蛋清甜適合水煮、煎、炒等多種烹調方式，簡單的海鹽就很美味。",
+          "imgUrl": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg",
+          "id": 5,
+          "relevantRecipes": [
+            "提拉米蘇蛋糕",
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙",
+            "鳳梨酥",
+            "舒芙蕾",
+            "巧克力布朗尼",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "originalPrice": 200,
+          "isCheaper": true,
+          "imgsUrl": [
+            "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/08/egg-yolk-1296x728-header.jpg?w=1155&h=1528",
+            "https://samitivej-prod-new-website.s3.ap-southeast-1.amazonaws.com/public/uploads/descriptions/d1a738734066eac562744ef1d99c6f36.jpg",
+            "https://post.healthline.com/wp-content/uploads/2020/05/eggs-counter-732x549-thumbnail-732x549.jpg"
+          ],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍"
+          ],
+          "imgUrl": "https://img.shoplineapp.com/media/image_clips/5eeefe53109b5d00302186a4/original.png?1592720976",
+          "title": "抹茶粉",
+          "price": 140,
+          "num": 200,
+          "unit": "g",
+          "id": 10,
+          "description": "日本京都製造『日本京都抹茶粉』適合用於日常烘焙及飲品調配。 無糖配方，體驗最純正的日本抹茶風味。",
+          "originalPrice": 200,
+          "isCheaper": true,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "巧克力閃電泡芙",
+            "巧克力布朗尼"
+          ],
+          "title": "黑巧克力",
+          "num": 200,
+          "unit": "g",
+          "price": 150,
+          "description": "頂級比利時可可原料 MIT台灣製造，歐式浪漫、質感外盒。\n\n最純粹的黑巧克力，每一口都是高品質可可的綿密的多層次口感。\n\n半年售出十萬片，超級熱銷品，懂吃的老饕就懂！",
+          "imgUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/12/24/99/14876192.jpg&x=0&y=0&sw=800&sh=452&s=Y&sl=W&fw=1280&exp=3600",
+          "id": 11,
+          "originalPrice": 150,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙"
+          ],
+          "price": 90,
+          "num": 200,
+          "unit": "ml",
+          "title": "動物性鮮奶油",
+          "description": "總統牌鮮奶油產自法國布列塔尼及諾曼地等地區，純淨肥沃的天然畜牧環境孕育出香醇可口的生乳品質！\n 豐富的鈣質及維他命來源：每100公克的鮮奶油，提供80毫克至90毫克的鈣質，較牛奶含有更高的脂溶性維他命A、D、E、K！\n用於西式料理、糕點烘焙，濃純的芳香帶出馥郁的口感！打發效果佳，綿密細緻的質地，更是慕斯奶醬甜點類的最大優勢！",
+          "imgUrl": "https://ufileweb.hiwinner.tw/HiperShop/rwd1163/Store/prodPic/prod_Pics2PDTD0020%20(2).png",
+          "id": 12,
+          "originalPrice": 90,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "title": "精製細砂糖",
+          "num": 500,
+          "unit": "g",
+          "price": 45,
+          "description": "料理 調味好幫手",
+          "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
+          "id": 4,
+          "relevantRecipes": [
+            "提拉米蘇蛋糕",
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙",
+            "鳳梨酥",
+            "比司吉",
+            "舒芙蕾",
+            "巧克力布朗尼",
+            "關東風櫻餅",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "originalPrice": 45,
+          "isCheaper": false,
+          "imgsUrl": [
+            "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
+            "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
+            "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
+          ],
+          "category": "單一產品"
+        },
+        {
+          "imgUrl": "https://www.ycbake.com.tw/upfd/upimage/PD-180212-018403.jpg",
+          "title": "糖粉",
+          "num": 250,
+          "unit": "g",
+          "price": 35,
+          "description": "台中70年老店，大華糖行分裝，安全無虞。台糖公司小港廠，精緻特砂，100%品質保證",
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "鳳梨酥",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "id": 9,
+          "originalPrice": 35,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "imgUrl": "https://static.wixstatic.com/media/e193cd_26a08b3c53ee461d8659c421c7a115d5~mv2.jpg/v1/fill/w_600,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%E6%9D%8F%E4%BB%81%E7%B2%89.jpg",
+          "title": "杏仁粉",
+          "num": 200,
+          "unit": "g",
+          "price": 100,
+          "description": "杏仁含豐富的優質蛋白\n\n特別適合發育中的兒童食用。\n\n杏仁營養價值高含豐富的\n\n單元不飽和脂肪酸，維他命E，維他命B17。",
+          "id": 8,
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍"
+          ],
+          "originalPrice": 100,
+          "isCheaper": false,
+          "category": "單一產品"
+        }
+      ],
+      "id": 5,
+      "getPrize": true,
+      "prizeNum": 5
+    },
+    {
+      "userId": "12",
+      "drewArr": [
+        {
+          "imgUrl": "https://static.wixstatic.com/media/e193cd_26a08b3c53ee461d8659c421c7a115d5~mv2.jpg/v1/fill/w_600,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/%E6%9D%8F%E4%BB%81%E7%B2%89.jpg",
+          "title": "杏仁粉",
+          "num": 200,
+          "unit": "g",
+          "price": 100,
+          "description": "杏仁含豐富的優質蛋白\n\n特別適合發育中的兒童食用。\n\n杏仁營養價值高含豐富的\n\n單元不飽和脂肪酸，維他命E，維他命B17。",
+          "id": 8,
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍"
+          ],
+          "originalPrice": 100,
+          "isCheaper": false,
+          "category": "單一產品"
+        },
+        {
+          "title": "雞蛋",
+          "num": 10,
+          "unit": "顆",
+          "price": 130,
+          "description": "放牧飼養、餵食草本飼料的雞蛋，雞蛋清甜適合水煮、煎、炒等多種烹調方式，簡單的海鹽就很美味。",
+          "imgUrl": "https://cdn.britannica.com/94/151894-050-F72A5317/Brown-eggs.jpg",
+          "id": 5,
+          "relevantRecipes": [
+            "提拉米蘇蛋糕",
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙",
+            "鳳梨酥",
+            "舒芙蕾",
+            "巧克力布朗尼",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "originalPrice": 200,
+          "isCheaper": true,
+          "imgsUrl": [
+            "https://i0.wp.com/post.healthline.com/wp-content/uploads/2021/08/egg-yolk-1296x728-header.jpg?w=1155&h=1528",
+            "https://samitivej-prod-new-website.s3.ap-southeast-1.amazonaws.com/public/uploads/descriptions/d1a738734066eac562744ef1d99c6f36.jpg",
+            "https://post.healthline.com/wp-content/uploads/2020/05/eggs-counter-732x549-thumbnail-732x549.jpg"
+          ],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "巧克力閃電泡芙",
+            "巧克力布朗尼"
+          ],
+          "title": "黑巧克力",
+          "num": 200,
+          "unit": "g",
+          "price": 150,
+          "description": "頂級比利時可可原料 MIT台灣製造，歐式浪漫、質感外盒。\n\n最純粹的黑巧克力，每一口都是高品質可可的綿密的多層次口感。\n\n半年售出十萬片，超級熱銷品，懂吃的老饕就懂！",
+          "imgUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2021/12/24/99/14876192.jpg&x=0&y=0&sw=800&sh=452&s=Y&sl=W&fw=1280&exp=3600",
+          "id": 11,
+          "originalPrice": 150,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙"
+          ],
+          "price": 90,
+          "num": 200,
+          "unit": "ml",
+          "title": "動物性鮮奶油",
+          "description": "總統牌鮮奶油產自法國布列塔尼及諾曼地等地區，純淨肥沃的天然畜牧環境孕育出香醇可口的生乳品質！\n 豐富的鈣質及維他命來源：每100公克的鮮奶油，提供80毫克至90毫克的鈣質，較牛奶含有更高的脂溶性維他命A、D、E、K！\n用於西式料理、糕點烘焙，濃純的芳香帶出馥郁的口感！打發效果佳，綿密細緻的質地，更是慕斯奶醬甜點類的最大優勢！",
+          "imgUrl": "https://ufileweb.hiwinner.tw/HiperShop/rwd1163/Store/prodPic/prod_Pics2PDTD0020%20(2).png",
+          "id": 12,
+          "originalPrice": 90,
+          "isCheaper": false,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "relevantRecipes": [
+            "抹茶巧克力馬卡龍"
+          ],
+          "imgUrl": "https://img.shoplineapp.com/media/image_clips/5eeefe53109b5d00302186a4/original.png?1592720976",
+          "title": "抹茶粉",
+          "price": 140,
+          "num": 200,
+          "unit": "g",
+          "id": 10,
+          "description": "日本京都製造『日本京都抹茶粉』適合用於日常烘焙及飲品調配。 無糖配方，體驗最純正的日本抹茶風味。",
+          "originalPrice": 200,
+          "isCheaper": true,
+          "imgsUrl": [],
+          "category": "單一產品"
+        },
+        {
+          "title": "精製細砂糖",
+          "num": 500,
+          "unit": "g",
+          "price": 45,
+          "description": "料理 調味好幫手",
+          "imgUrl": "https://www.cnet.com/a/img/resize/69fb3b1dec1708e68093cd3ff2cbf7a850a4d5ac/hub/2022/11/07/034458d7-c897-45d4-8e9e-4e3d62452521/gettyimages-473200382.jpg?auto=webp&fit=crop&height=900&width=1200",
+          "id": 4,
+          "relevantRecipes": [
+            "提拉米蘇蛋糕",
+            "抹茶巧克力馬卡龍",
+            "日式草莓蛋糕",
+            "巧克力閃電泡芙",
+            "鳳梨酥",
+            "比司吉",
+            "舒芙蕾",
+            "巧克力布朗尼",
+            "關東風櫻餅",
+            " 紅絲絨杯子蛋糕"
+          ],
+          "originalPrice": 45,
+          "isCheaper": false,
+          "imgsUrl": [
+            "https://www.tasteofhome.com/wp-content/uploads/2019/11/sugar-shutterstock_615908132.jpg?fit=700,800",
+            "https://dmrqkbkq8el9i.cloudfront.net/Pictures/480xany/1/2/6/281126_sugar5496546_1920_155323.jpg",
+            "https://www.bworldonline.com/wp-content/uploads/2022/12/sugar-cubes.jpg"
+          ],
+          "category": "單一產品"
+        }
+      ],
+      "id": 6
     }
   ]
 }
